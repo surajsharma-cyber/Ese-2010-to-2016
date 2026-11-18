@@ -57,3 +57,47 @@ These sites can reduce discovery and comparison effort, but they do not replace 
 
 - Public GitHub repository search: no clearly matching ESE Civil 2010–2016 question-bank repository identified in the searches performed on 2026-11-18.
 - Strongest practical leads for the requested years: Education Observer attachments for 2010–2012; ExamElite's explicitly labelled ESE/IES Civil P1/P2 entries for 2015–2016; official UPSC papers remain the final verification authority.
+
+
+## Verification workstream — 2026-11-18
+
+### Primary-source check
+
+The current UPSC Previous Year Question Papers archive was inspected directly:
+https://www.upsc.gov.in/examinations/previous-question-papers/archives
+
+It explicitly exposes the ESE 2016 Objective Papers and separates them from Conventional Papers. The official Civil Engineering objective PDFs are:
+- Paper I: https://www.upsc.gov.in/sites/default/files/1%20CIVIL%20ENGG%20PAPER-1A.pdf
+- Paper II: https://www.upsc.gov.in/sites/default/files/2%20CIVIL%20ENGG%20PAPER-2B.pdf
+
+Both official PDFs are 24 pages. This confirms the official 2016 source records and their objective-paper classification. It does **not** yet constitute question-by-question comparison with the ExamElite transcription.
+
+The UPSC archive page inspected in this run did not expose official ESE objective-paper PDFs for 2010–2015. Do not label any third-party copy from those years as officially verified until a matching primary UPSC paper or another demonstrably official copy is located.
+
+### Secondary-source leads by year
+
+| Year | Secondary lead | What is actually established | Verification status |
+|---|---|---|---|
+| 2010 | Education Observer thread 13928; attachment names identify Civil objective Paper I and II | Attachment listings exist; the forum page distinguishes objective from conventional papers | SECONDARY CANDIDATE — PDF content not compared with official paper |
+| 2011 | Education Observer thread 13928 and separate solved-paper thread 17396 | Objective Paper I and II attachments are listed; another thread lists answer-key PDFs | SECONDARY CANDIDATE — PDF content and keys not compared with official paper |
+| 2012 | Education Observer thread 13928 and solved-paper thread 13951 | Objective Paper I and II attachments are listed; solved-paper thread claims answer keys/solutions | SECONDARY CANDIDATE — PDF content and keys not compared with official paper |
+| 2013 | Education Observer thread 18134 points to a separate IES 2013 Civil paper thread | A thread link exists; exact paper files not inspected | PENDING |
+| 2014 | Education Observer thread 18134 points to a separate IES 2014 Civil solved-paper thread | A thread link exists; exact paper files not inspected | PENDING |
+| 2015 | ExamElite lists explicitly named ESE (IES) Civil P1 and P2, 120 questions each | Third-party paper records are listed | SECONDARY CANDIDATE — no official UPSC match located or checked |
+| 2016 | ExamElite lists explicitly named ESE (IES) Civil P1 and P2, 120 questions each; UPSC archive independently lists official objective P1 and P2 | Year, discipline and two-paper structure align at metadata level | METADATA MATCH ONLY — question-by-question comparison still required |
+
+### Critical exclusion: ambiguous ExamElite entries
+
+ExamElite also lists generic entries named "Civil Engineering (CE)" for 2010, 2011, 2012, 2013 and "Civil Engineering (CE) SET 1/SET 2" for 2014–2016. These are shown in a combined ESE & GATE package and are not explicitly identified as ESE technical objective papers. Their 65-question counts and generic labels are insufficient to establish ESE provenance.
+
+**Do not use those generic 65-question records as ESE PYQs.** Only records explicitly identified as ESE/IES Civil technical P1/P2 may be considered as secondary candidates, and they still require primary-source verification.
+
+### Current comparison result
+
+- Official 2016 UPSC PDFs: LOCATED; metadata confirmed; question-level comparison NOT YET DONE.
+- 2010–2012 Education Observer PDFs: ATTACHMENTS IDENTIFIED; content comparison NOT DONE; official primary counterparts not located in the current UPSC archive.
+- 2013–2014: SECONDARY THREAD LEADS IDENTIFIED; exact paper content NOT INSPECTED.
+- 2015: ExamElite ESE-labelled entries IDENTIFIED; official counterpart NOT LOCATED.
+- Answer keys: NONE VERIFIED against an official UPSC key.
+
+No question records are admitted to `data/questions.json` by this workstream. This prevents unverified or misclassified questions from entering the portal.
