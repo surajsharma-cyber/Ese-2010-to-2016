@@ -140,3 +140,62 @@ IAS Exam Portal has separate pages labelled Engineering Services Examination 201
 ### Repository admission decision
 
 No questions have been admitted to `data/questions.json` in this pass. The available evidence is sufficient to establish official 2016 source identity and to confirm secondary listing leads, but not sufficient to certify a full question bank or its answer keys. This is an intentional quality gate, not a claim that no usable questions exist.
+
+
+## Extended source comparison — 2026-11-18
+
+### 2016 Paper I: direct page-level comparison completed
+
+The UPSC archive page directly links the official 2016 Civil Engineering Objective Paper I and Paper II. The direct official links below were opened as 24-page PDFs:
+- [UPSC official Civil Engineering Objective Paper I](https://www.upsc.gov.in/sites/default/files/1%20CIVIL%20ENGG%20PAPER-1A.pdf)
+- [UPSC official Civil Engineering Objective Paper II](https://www.upsc.gov.in/sites/default/files/2%20CIVIL%20ENGG%20PAPER-2B.pdf)
+
+The official Paper I scan was visually inspected at:
+- PDF page index 0: cover/instructions. It identifies ESE 2016, Civil Engineering, Paper I, 120 items, two hours, 200 marks and one-third penalty for a wrong answer.
+- PDF page index 2: printed page 3, questions 7–12.
+- PDF page index 3: printed page 5, questions 19–24.
+
+ExamElite's explicitly labelled [ESE (IES) Civil Engineering P1 2016](https://www.examelite.com/exam-detail/ese-ies-civil-engineering-ce-p1-2016) page identifies 120 MCQs and exposes question text/options in its HTML. Direct visual comparison against the UPSC scan produced the following audit:
+
+| Paper question number | Official scan location | Third-party transcription comparison | Result |
+|---|---|---|---|
+| 7 | PDF index 2 / printed p.3 | Wording and all four options agree | TEXT + OPTIONS MATCH |
+| 8 | PDF index 2 / printed p.3 | Wording and all four options agree | TEXT + OPTIONS MATCH |
+| 9 | PDF index 2 / printed p.3 | Wording and all four options agree | TEXT + OPTIONS MATCH |
+| 10 | PDF index 2 / printed p.3 | Wording and all four options agree | TEXT + OPTIONS MATCH |
+| 11 | PDF index 2 / printed p.3 | Wording and all four options agree | TEXT + OPTIONS MATCH |
+| 12 | PDF index 2 / printed p.3 | Wording and all four options agree | TEXT + OPTIONS MATCH |
+| 19 | PDF index 3 / printed p.5 | Wording and all four options agree | TEXT + OPTIONS MATCH |
+| 20 | PDF index 3 / printed p.5 | Wording and all four options agree | TEXT + OPTIONS MATCH |
+| 21 | PDF index 3 / printed p.5 | Question wording, numerical data and option values agree; diagram must be separately checked against the original graphic | TEXT + OPTIONS MATCH; DIAGRAM CHECK PENDING |
+| 22 | PDF index 3 / printed p.5 | Wording and all four options agree | TEXT + OPTIONS MATCH |
+| 23 | PDF index 3 / printed p.5 | Wording and all four options agree | TEXT + OPTIONS MATCH |
+| 24 | PDF index 3 / printed p.5 | Wording and all four options agree | TEXT + OPTIONS MATCH |
+
+Result: 11 of the 12 inspected questions have matching text and options; Q21 has a matching text/options transcription but its diagram has not been separately validated. This is a sample audit only. It does not validate the remaining 108 questions in Paper I.
+
+### 2016 Paper II: secondary record identified; official page-level match pending
+
+- [ExamElite ESE (IES) Civil Engineering P2 2016](https://www.examelite.com/exam-detail/ese-ies-civil-engineering-ce-p2-2016) identifies a 120-question, 180-minute MCQ paper.
+- The official UPSC Paper II PDF cover independently confirms ESE 2016, Civil Engineering Paper II, 120 items, two hours, 200 marks and one-third penalty.
+- No question-page comparison is certified yet for Paper II because the corresponding official interior scan pages have not been successfully rendered in this session.
+
+### 2015 scheme evidence
+
+The UPSC Annual Report 2015–16, Appendix 10, states that ESE 2015 written examination comprised three objective-type and two conventional-type papers for each of four disciplines. This is official evidence of the 2015 exam's overall paper structure; it does not alone establish which third-party question list is a faithful transcription of the two Civil technical objective papers.
+
+Official source:
+https://upsc.gov.in/sites/default/files/UPSC_AR_2015-16_ENG_0.pdf
+
+### Secondary source records now linked for direct review
+
+- [ExamElite ESE Civil P1 2015](https://www.examelite.com/exam-detail/ese-ies-civil-engineering-ce-p1-2015)
+- [ExamElite ESE Civil P2 2015](https://www.examelite.com/exam-detail/ese-ies-civil-engineering-ce-p2-2015)
+- [ExamElite ESE Civil P1 2016](https://www.examelite.com/exam-detail/ese-ies-civil-engineering-ce-p1-2016)
+- [ExamElite ESE Civil P2 2016](https://www.examelite.com/exam-detail/ese-ies-civil-engineering-ce-p2-2016)
+- [Education Observer 2010–2012 attachment index](https://www.educationobserver.com/forum/showthread.php?tid=13928)
+- [IAS Exam Portal 2013 Civil Objective Paper I listing](https://iasexamportal.com/ies/previous-papers/objective-civil-engineering-i-2013)
+
+### Data admission decision
+
+The 2016 Paper I comparison is now supported for the 12 inspected question numbers, with Q21's diagram check outstanding. The remaining 108 Paper I questions and all 120 Paper II questions still require review. No answer key has been validated against an official UPSC answer key. No complete paper is labelled verified.
