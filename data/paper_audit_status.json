@@ -1,52 +1,33 @@
 {
   "project": "ESE Civil Engineering Technical Prelims PYQ",
-  "scope": "Civil Engineering technical objective Paper I and Paper II only; 2010–2016",
+  "scope": {
+    "years": [
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016
+    ],
+    "discipline": "Civil Engineering",
+    "stage": "Objective / Prelims",
+    "paper": "Civil Engineering Paper II only",
+    "excluded": [
+      "Paper I",
+      "General Ability Test / General Studies",
+      "Conventional papers",
+      "other engineering disciplines"
+    ]
+  },
   "generated_on": "2026-11-18",
   "primary_authority": "UPSC original question paper scans and official UPSC answer keys where available",
   "admission_rule": "A question is admitted only after exact wording, all options, printed number, paper/year, and any diagram are checked against the original paper. Answer key is a separate verification state.",
   "papers": {
-    "2010_P1": {
-      "year": 2010,
-      "paper_number": 1,
-      "title": "ESE 2010 Civil Engineering Objective Paper 1",
-      "question_audit_status": "NOT_STARTED",
-      "questions_expected": null,
-      "questions_sampled": 0,
-      "verified_questions_admitted": 0,
-      "answer_key_status": "NOT_AUTHENTICATED",
-      "blockers": [
-        "Actual provider PDF must be retrieved from listed third-party source before transcription",
-        "No question records admitted yet"
-      ],
-      "third_party_source_policy": "PROVIDER_SOURCE_ACCEPTED_WHEN_IDENTIFIED_FILE_RETRIEVED",
-      "third_party_catalogue_sources": [
-        "Mathematical Society",
-        "My UPSC Syllabus"
-      ]
-    },
     "2010_P2": {
       "year": 2010,
       "paper_number": 2,
       "title": "ESE 2010 Civil Engineering Objective Paper 2",
-      "question_audit_status": "NOT_STARTED",
-      "questions_expected": null,
-      "questions_sampled": 0,
-      "verified_questions_admitted": 0,
-      "answer_key_status": "NOT_AUTHENTICATED",
-      "blockers": [
-        "Actual provider PDF must be retrieved from listed third-party source before transcription",
-        "No question records admitted yet"
-      ],
-      "third_party_source_policy": "PROVIDER_SOURCE_ACCEPTED_WHEN_IDENTIFIED_FILE_RETRIEVED",
-      "third_party_catalogue_sources": [
-        "Mathematical Society",
-        "My UPSC Syllabus"
-      ]
-    },
-    "2011_P1": {
-      "year": 2011,
-      "paper_number": 1,
-      "title": "ESE 2011 Civil Engineering Objective Paper 1",
       "question_audit_status": "NOT_STARTED",
       "questions_expected": null,
       "questions_sampled": 0,
@@ -81,48 +62,10 @@
         "My UPSC Syllabus"
       ]
     },
-    "2012_P1": {
-      "year": 2012,
-      "paper_number": 1,
-      "title": "ESE 2012 Civil Engineering Objective Paper 1",
-      "question_audit_status": "NOT_STARTED",
-      "questions_expected": null,
-      "questions_sampled": 0,
-      "verified_questions_admitted": 0,
-      "answer_key_status": "NOT_AUTHENTICATED",
-      "blockers": [
-        "Actual provider PDF must be retrieved from listed third-party source before transcription",
-        "No question records admitted yet"
-      ],
-      "third_party_source_policy": "PROVIDER_SOURCE_ACCEPTED_WHEN_IDENTIFIED_FILE_RETRIEVED",
-      "third_party_catalogue_sources": [
-        "Mathematical Society",
-        "My UPSC Syllabus"
-      ]
-    },
     "2012_P2": {
       "year": 2012,
       "paper_number": 2,
       "title": "ESE 2012 Civil Engineering Objective Paper 2",
-      "question_audit_status": "NOT_STARTED",
-      "questions_expected": null,
-      "questions_sampled": 0,
-      "verified_questions_admitted": 0,
-      "answer_key_status": "NOT_AUTHENTICATED",
-      "blockers": [
-        "Actual provider PDF must be retrieved from listed third-party source before transcription",
-        "No question records admitted yet"
-      ],
-      "third_party_source_policy": "PROVIDER_SOURCE_ACCEPTED_WHEN_IDENTIFIED_FILE_RETRIEVED",
-      "third_party_catalogue_sources": [
-        "Mathematical Society",
-        "My UPSC Syllabus"
-      ]
-    },
-    "2013_P1": {
-      "year": 2013,
-      "paper_number": 1,
-      "title": "ESE 2013 Civil Engineering Objective Paper 1",
       "question_audit_status": "NOT_STARTED",
       "questions_expected": null,
       "questions_sampled": 0,
@@ -157,39 +100,6 @@
         "My UPSC Syllabus"
       ]
     },
-    "2014_P1": {
-      "year": 2014,
-      "paper_number": 1,
-      "title": "ESE 2014 Civil Engineering Objective Paper 1",
-      "question_audit_status": "NOT_STARTED",
-      "questions_expected": null,
-      "questions_sampled": 0,
-      "verified_questions_admitted": 0,
-      "answer_key_status": "NOT_AUTHENTICATED",
-      "blockers": [
-        "Actual provider PDF must be retrieved from listed third-party source before transcription",
-        "No question records admitted yet"
-      ],
-      "third_party_source_policy": "PROVIDER_SOURCE_ACCEPTED_WHEN_IDENTIFIED_FILE_RETRIEVED",
-      "third_party_catalogue_sources": [
-        "Mathematical Society",
-        "My UPSC Syllabus"
-      ],
-      "additional_third_party_sources": [
-        {
-          "title": "PYQSathi ESE 2014 paper catalogue (Civil objective Paper I and II listed)",
-          "url": "https://pyqsathi.com/exams/upsc/upsc-ese/2014/",
-          "source_type": "third_party_catalogue",
-          "status": "both_civil_objective_papers_listed_official_upsc_source_claimed"
-        },
-        {
-          "title": "My UPSC Syllabus ESE CE 2014 download folder",
-          "url": "https://drive.google.com/drive/folders/1tVTDHr6OTtlXJ8NBb79DDjYJMEnF40k4",
-          "source_type": "third_party_file_catalog",
-          "status": "folder_linked_cache_miss"
-        }
-      ]
-    },
     "2014_P2": {
       "year": 2014,
       "paper_number": 2,
@@ -220,45 +130,6 @@
           "url": "https://drive.google.com/drive/folders/1tVTDHr6OTtlXJ8NBb79DDjYJMEnF40k4",
           "source_type": "third_party_file_catalog",
           "status": "folder_linked_cache_miss"
-        }
-      ]
-    },
-    "2015_P1": {
-      "year": 2015,
-      "paper_number": 1,
-      "title": "ESE 2015 Civil Engineering Objective Paper 1",
-      "question_audit_status": "NOT_STARTED",
-      "questions_expected": null,
-      "questions_sampled": 0,
-      "verified_questions_admitted": 0,
-      "answer_key_status": "NOT_AUTHENTICATED",
-      "blockers": [
-        "Actual provider PDF must be retrieved from listed third-party source before transcription",
-        "No question records admitted yet"
-      ],
-      "third_party_source_policy": "PROVIDER_SOURCE_ACCEPTED_WHEN_IDENTIFIED_FILE_RETRIEVED",
-      "third_party_catalogue_sources": [
-        "Mathematical Society",
-        "My UPSC Syllabus"
-      ],
-      "additional_third_party_sources": [
-        {
-          "title": "PYQSathi ESE 2015 paper catalogue (Civil objective Paper I and II)",
-          "url": "https://pyqsathi.com/exams/upsc/upsc-ese/2015/",
-          "source_type": "third_party_catalogue",
-          "status": "both_civil_objective_papers_listed_official_upsc_source_claimed"
-        },
-        {
-          "title": "IES Academy ESE 2015 Civil Objective Paper II answer key",
-          "url": "https://www.iesacademy.com/uploaded_files/solution/small-1434365018.pdf",
-          "source_type": "third_party_answer_key",
-          "status": "answer_key_pdf_opened_120_items_set_D_secondary_provider_key"
-        },
-        {
-          "title": "Education Observer ESE 2015 Civil objective papers thread",
-          "url": "https://www.educationobserver.com/forum/showthread.php?tid=19864",
-          "source_type": "third_party_forum_attachment_index",
-          "status": "thread_lists_paper_I_and_II_pdf_attachments_not_downloaded"
         }
       ]
     },
@@ -307,73 +178,6 @@
         "set": "D",
         "items": 120
       }
-    },
-    "2016_P1": {
-      "year": 2016,
-      "paper_number": 1,
-      "title": "ESE 2016 Civil Engineering Objective Paper 1",
-      "question_audit_status": "SECONDARY_COPY_OPENED_OFFICIAL_COMPARISON_BLOCKED",
-      "questions_expected": 120,
-      "questions_sampled": 0,
-      "verified_questions_admitted": 0,
-      "answer_key_status": "SECONDARY_KEY_ONLY_NOT_OFFICIAL",
-      "blockers": [
-        "UPSC original PDF page images return retrieval/cache errors in this environment",
-        "Secondary copy has not been compared page-by-page with the official original",
-        "Printed coaching answer key is not an official UPSC answer key",
-        "No question records admitted to the live bank"
-      ],
-      "question_sample_summary": {
-        "searchable_secondary_scan_opened": true,
-        "questions_declared_by_paper": 120,
-        "question_level_audit_against_official_original": 0,
-        "previous_18_item_sample_is_not_retained_as_verified_evidence": "It was only a partial comparison to a third-party transcription; it is not an official-paper verification and has not been admitted."
-      },
-      "alternate_sources": [
-        {
-          "title": "UPSC official original objective paper",
-          "url": "https://www.upsc.gov.in/sites/default/files/1%20CIVIL%20ENGG%20PAPER-1A.pdf",
-          "source_type": "official_primary",
-          "status": "official_archive_listing_confirmed"
-        },
-        {
-          "title": "PYQOnline searchable scan",
-          "url": "https://www.pyqonline.com/exam/upsc/papers/ese/ese-objective-civil-engineering-paper-1-2016.pdf",
-          "source_type": "secondary_scan",
-          "status": "searchable_pdf_opened_120_questions"
-        },
-        {
-          "title": "ACE Engineering Academy solved-paper scan",
-          "url": "https://www.aceenggacademy.com/wp-content/uploads/2016/05/Civil_Paper_1_Objective.pdf",
-          "source_type": "secondary_solved_copy",
-          "status": "cover_and_subject_distribution_confirmed"
-        }
-      ],
-      "secondary_copy_opened": true,
-      "secondary_evidence": {
-        "searchable_pdf_lines": 1080,
-        "ace_solved_pdf_pages": 27,
-        "declared_questions": 120
-      },
-      "third_party_source_policy": "PROVIDER_SOURCE_ACCEPTED_WHEN_IDENTIFIED_FILE_RETRIEVED",
-      "third_party_catalogue_sources": [
-        "Mathematical Society",
-        "My UPSC Syllabus"
-      ],
-      "additional_third_party_sources": [
-        {
-          "title": "PYQSathi ESE 2016 Civil objective papers",
-          "url": "https://pyqsathi.com/exams/upsc/upsc-ese/2016/",
-          "source_type": "third_party_catalogue",
-          "status": "both_civil_objective_papers_linked_to_UPSC_original"
-        },
-        {
-          "title": "PYQOnline ESE 2016 Civil Paper I searchable PDF",
-          "url": "https://www.pyqonline.com/exam/upsc/papers/ese/ese-objective-civil-engineering-paper-1-2016.pdf",
-          "source_type": "third_party_searchable_scan",
-          "status": "searchable_pdf_opened_120_questions"
-        }
-      ]
     },
     "2016_P2": {
       "year": 2016,
@@ -436,10 +240,10 @@
     }
   },
   "totals": {
-    "papers_in_scope": 14,
+    "papers_in_scope": 7,
     "official_primary_papers_located": 2,
     "official_archive_entries_confirmed": 2,
-    "secondary_2016_paper_copies_opened": 2,
+    "secondary_2016_paper_copies_opened": 1,
     "papers_with_question_level_official_comparison": 0,
     "papers_with_full_question_audit": 0,
     "verified_question_records_admitted": 0,
