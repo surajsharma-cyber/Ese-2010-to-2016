@@ -1,5 +1,5 @@
 {
-  "project": "ESE Civil Engineering Technical Prelims PYQ",
+  "project": "ESE Civil Engineering Technical Prelims — Paper II only",
   "years": [
     2010,
     2011,
@@ -9,8 +9,8 @@
     2015,
     2016
   ],
-  "scope": "technical_objective_prelims_only",
-  "status": "partial_source_verification",
+  "scope": "civil_technical_objective_paper_ii_only",
+  "status": "source_collection_pending_paper_ii_only",
   "questions": [],
   "verification_ledger": "data/verification.json"
 }
