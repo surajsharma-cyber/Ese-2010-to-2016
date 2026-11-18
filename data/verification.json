@@ -1,0 +1,198 @@
+{
+  "project": "ESE Civil Engineering Technical Prelims PYQ",
+  "audit_date": "2026-11-18",
+  "policy": "A question is admitted to the verified question bank only after its wording, options, numbering, year, paper and all required diagrams are checked against the official original. Answer-key verification is a separate status.",
+  "sources": {
+    "official_p1": "https://www.upsc.gov.in/sites/default/files/1%20CIVIL%20ENGG%20PAPER-1A.pdf",
+    "official_p2": "https://www.upsc.gov.in/sites/default/files/2%20CIVIL%20ENGG%20PAPER-2B.pdf",
+    "secondary_p1": "https://www.examelite.com/exam-detail/ese-ies-civil-engineering-ce-p1-2016"
+  },
+  "paper_status": {
+    "2016_P1": {
+      "official_identity": "VERIFIED",
+      "cover_metadata": "VERIFIED",
+      "total_questions": 120,
+      "question_level_audit": {
+        "sampled": 12,
+        "text_and_options_match": 11,
+        "diagram_pending": 1,
+        "not_sampled": 108
+      },
+      "answer_key": "NOT_VERIFIED"
+    },
+    "2016_P2": {
+      "official_identity": "VERIFIED",
+      "cover_metadata": "VERIFIED",
+      "total_questions": 120,
+      "question_level_audit": {
+        "sampled": 0,
+        "text_and_options_match": 0,
+        "diagram_pending": 0,
+        "not_sampled": 120
+      },
+      "answer_key": "NOT_VERIFIED"
+    }
+  },
+  "sampled_questions": [
+    {
+      "id": "ESE-2016-CE-P1-Q7",
+      "year": 2016,
+      "paper": "Civil Engineering Objective Paper I",
+      "question_number": 7,
+      "official_pdf_page_index": 2,
+      "official_printed_page": 3,
+      "secondary_source": "ExamElite ESE (IES) Civil Engineering P1 2016",
+      "transcription_status": "TEXT_AND_OPTIONS_MATCH",
+      "diagram_status": "NOT_APPLICABLE",
+      "answer_key_status": "NOT_VERIFIED",
+      "publication_status": "AUDIT_ONLY"
+    },
+    {
+      "id": "ESE-2016-CE-P1-Q8",
+      "year": 2016,
+      "paper": "Civil Engineering Objective Paper I",
+      "question_number": 8,
+      "official_pdf_page_index": 2,
+      "official_printed_page": 3,
+      "secondary_source": "ExamElite ESE (IES) Civil Engineering P1 2016",
+      "transcription_status": "TEXT_AND_OPTIONS_MATCH",
+      "diagram_status": "NOT_APPLICABLE",
+      "answer_key_status": "NOT_VERIFIED",
+      "publication_status": "AUDIT_ONLY"
+    },
+    {
+      "id": "ESE-2016-CE-P1-Q9",
+      "year": 2016,
+      "paper": "Civil Engineering Objective Paper I",
+      "question_number": 9,
+      "official_pdf_page_index": 2,
+      "official_printed_page": 3,
+      "secondary_source": "ExamElite ESE (IES) Civil Engineering P1 2016",
+      "transcription_status": "TEXT_AND_OPTIONS_MATCH",
+      "diagram_status": "NOT_APPLICABLE",
+      "answer_key_status": "NOT_VERIFIED",
+      "publication_status": "AUDIT_ONLY"
+    },
+    {
+      "id": "ESE-2016-CE-P1-Q10",
+      "year": 2016,
+      "paper": "Civil Engineering Objective Paper I",
+      "question_number": 10,
+      "official_pdf_page_index": 2,
+      "official_printed_page": 3,
+      "secondary_source": "ExamElite ESE (IES) Civil Engineering P1 2016",
+      "transcription_status": "TEXT_AND_OPTIONS_MATCH",
+      "diagram_status": "NOT_APPLICABLE",
+      "answer_key_status": "NOT_VERIFIED",
+      "publication_status": "AUDIT_ONLY"
+    },
+    {
+      "id": "ESE-2016-CE-P1-Q11",
+      "year": 2016,
+      "paper": "Civil Engineering Objective Paper I",
+      "question_number": 11,
+      "official_pdf_page_index": 2,
+      "official_printed_page": 3,
+      "secondary_source": "ExamElite ESE (IES) Civil Engineering P1 2016",
+      "transcription_status": "TEXT_AND_OPTIONS_MATCH",
+      "diagram_status": "NOT_APPLICABLE",
+      "answer_key_status": "NOT_VERIFIED",
+      "publication_status": "AUDIT_ONLY"
+    },
+    {
+      "id": "ESE-2016-CE-P1-Q12",
+      "year": 2016,
+      "paper": "Civil Engineering Objective Paper I",
+      "question_number": 12,
+      "official_pdf_page_index": 2,
+      "official_printed_page": 3,
+      "secondary_source": "ExamElite ESE (IES) Civil Engineering P1 2016",
+      "transcription_status": "TEXT_AND_OPTIONS_MATCH",
+      "diagram_status": "NOT_APPLICABLE",
+      "answer_key_status": "NOT_VERIFIED",
+      "publication_status": "AUDIT_ONLY"
+    },
+    {
+      "id": "ESE-2016-CE-P1-Q19",
+      "year": 2016,
+      "paper": "Civil Engineering Objective Paper I",
+      "question_number": 19,
+      "official_pdf_page_index": 3,
+      "official_printed_page": 5,
+      "secondary_source": "ExamElite ESE (IES) Civil Engineering P1 2016",
+      "transcription_status": "TEXT_AND_OPTIONS_MATCH",
+      "diagram_status": "NOT_APPLICABLE",
+      "answer_key_status": "NOT_VERIFIED",
+      "publication_status": "AUDIT_ONLY"
+    },
+    {
+      "id": "ESE-2016-CE-P1-Q20",
+      "year": 2016,
+      "paper": "Civil Engineering Objective Paper I",
+      "question_number": 20,
+      "official_pdf_page_index": 3,
+      "official_printed_page": 5,
+      "secondary_source": "ExamElite ESE (IES) Civil Engineering P1 2016",
+      "transcription_status": "TEXT_AND_OPTIONS_MATCH",
+      "diagram_status": "NOT_APPLICABLE",
+      "answer_key_status": "NOT_VERIFIED",
+      "publication_status": "AUDIT_ONLY"
+    },
+    {
+      "id": "ESE-2016-CE-P1-Q22",
+      "year": 2016,
+      "paper": "Civil Engineering Objective Paper I",
+      "question_number": 22,
+      "official_pdf_page_index": 3,
+      "official_printed_page": 5,
+      "secondary_source": "ExamElite ESE (IES) Civil Engineering P1 2016",
+      "transcription_status": "TEXT_AND_OPTIONS_MATCH",
+      "diagram_status": "NOT_APPLICABLE",
+      "answer_key_status": "NOT_VERIFIED",
+      "publication_status": "AUDIT_ONLY"
+    },
+    {
+      "id": "ESE-2016-CE-P1-Q23",
+      "year": 2016,
+      "paper": "Civil Engineering Objective Paper I",
+      "question_number": 23,
+      "official_pdf_page_index": 3,
+      "official_printed_page": 5,
+      "secondary_source": "ExamElite ESE (IES) Civil Engineering P1 2016",
+      "transcription_status": "TEXT_AND_OPTIONS_MATCH",
+      "diagram_status": "NOT_APPLICABLE",
+      "answer_key_status": "NOT_VERIFIED",
+      "publication_status": "AUDIT_ONLY"
+    },
+    {
+      "id": "ESE-2016-CE-P1-Q24",
+      "year": 2016,
+      "paper": "Civil Engineering Objective Paper I",
+      "question_number": 24,
+      "official_pdf_page_index": 3,
+      "official_printed_page": 5,
+      "secondary_source": "ExamElite ESE (IES) Civil Engineering P1 2016",
+      "transcription_status": "TEXT_AND_OPTIONS_MATCH",
+      "diagram_status": "NOT_APPLICABLE",
+      "answer_key_status": "NOT_VERIFIED",
+      "publication_status": "AUDIT_ONLY"
+    },
+    {
+      "id": "ESE-2016-CE-P1-Q21",
+      "year": 2016,
+      "paper": "Civil Engineering Objective Paper I",
+      "question_number": 21,
+      "official_pdf_page_index": 3,
+      "official_printed_page": 5,
+      "secondary_source": "ExamElite ESE (IES) Civil Engineering P1 2016",
+      "transcription_status": "TEXT_AND_OPTIONS_MATCH",
+      "diagram_status": "PENDING_DIRECT_GRAPHIC_COMPARISON",
+      "answer_key_status": "NOT_VERIFIED",
+      "publication_status": "HOLD_DIAGRAM"
+    }
+  ],
+  "admission_summary": {
+    "admitted_question_records": 0,
+    "reason": "This file is an audit ledger, not a question bank. The sampled question wording is not duplicated here. A complete source transcription and diagram asset must be cleared before publication."
+  }
+}
