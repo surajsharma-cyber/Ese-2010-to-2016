@@ -235,3 +235,32 @@ A third-party index exists for 2016 answer keys, including Civil Engineering Pap
 https://iasexamportal.com/ies/answer-key/2016
 
 It labels the keys as courtesy UPSC, but the actual key files have not been opened and matched to official UPSC key documents. Therefore answer-key status remains NOT VERIFIED. Do not import these keys as authoritative.
+
+
+## 2016 answer-key source inspection — 2026-11-18
+
+A secondary-hosted scan of the 2016 Civil answer keys was located and visually inspected. The index page lists separate Civil Engineering Paper I and Paper II key downloads and attributes them to UPSC:
+https://iasexamportal.com/ies/answer-key/2016
+
+The downloaded scans display:
+- Exam: ES-2016
+- Series: A
+- Subject: Civil Paper I / Civil Engineering Paper II
+- Maximum marks: 200
+- Items dropped: Nil
+- Items for scoring: 120
+
+Files inspected:
+- [Civil Engineering Paper I key scan](https://iasexamportal.com/sites/default/files/Answer-Key-UPSC-Engineering-Services-Examination-2016-Civil-Engineering-Paper-I.pdf)
+- [Civil Engineering Paper II key scan](https://iasexamportal.com/sites/default/files/Answer-Key-UPSC-Engineering-Services-Examination-2016-Civil-Engineering-Paper-II.pdf)
+
+These are **secondary-hosted scans**, not a direct UPSC-hosted answer-key file. The Series A identifier corresponds to the Series A test booklet visible on the official UPSC 2016 question-paper cover. This supports their relevance, but the key's provenance has not been independently authenticated against a UPSC-hosted key document.
+
+Status:
+- Key scan availability and contents: INSPECTED.
+- Series A alignment with official paper cover: METADATA MATCH.
+- Official UPSC provenance: NOT INDEPENDENTLY AUTHENTICATED.
+- Correctness of all 120 keyed answers: NOT VERIFIED.
+- Publication status: PROVISIONAL CANDIDATE ONLY; do not present as an official verified key.
+
+The official UPSC archive's Answer Keys route did not return a usable 2016 ESE key record during this pass. Until an official UPSC-hosted key is found, these scans must remain provisional and separate from verified answer data.
