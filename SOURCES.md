@@ -400,3 +400,22 @@ This pass adds the sources and provenance to the repository. It does not claim t
 ## Scope correction — Paper II only
 
 The portal now includes only Civil Engineering technical objective Paper II for 2010–2016. Civil Engineering Paper I and the separate General Ability Test (General English / General Studies) are excluded. The modern ESE General Studies and Engineering Aptitude Paper I is also excluded. Under the historical 2010–2016 scheme, the General Ability Test was separate from Civil Engineering Paper I and Paper II; Paper II is the discipline-specific Civil technical objective paper.
+
+
+## Direct Paper II provider links identified
+
+The Engineers Forum archive explicitly separates General Ability, Civil Objective Paper I, Civil Objective Paper II and the two conventional papers. The repository records only the Civil Objective Paper II download links below.
+
+| Year | Provider download |
+|---|---|
+| 2010 | [ESE Civil Objective Paper II PDF](https://drive.google.com/file/d/0B-T3d5xNT5cxdWNnanlGN1JYUGc/view?usp=sharing) |
+| 2011 | [ESE Civil Objective Paper II PDF](https://drive.google.com/file/d/0B-T3d5xNT5cxSGVGdmNGenhhQ2c/view?usp=sharing) |
+| 2012 | [ESE Civil Objective Paper II PDF](https://drive.google.com/file/d/0B-T3d5xNT5cxWHBvU2g5UjdEa0k/view?usp=sharing) |
+| 2013 | [ESE Civil Objective Paper II PDF](https://drive.google.com/file/d/0B-T3d5xNT5cxWkh1VUJhTzVOSnc/view?usp=sharing) |
+| 2014 | [ESE Civil Objective Paper II PDF](https://drive.google.com/file/d/0B-T3d5xNT5cxR2x5ajhBeWdfd1U/view?usp=sharing) |
+| 2015 | [ESE Civil Objective Paper II PDF](https://drive.google.com/file/d/0B-T3d5xNT5cxVUZRVGFKVmxYUG8/view?usp=sharing) |
+| 2016 | [All Exam Review / IESect Civil Objective Paper II PDF](https://iesect.in/uploads/selection/IMG_11AFE9-1C4099-9661A4-78A2C7-976BF7-3FD396.pdf) |
+
+The provider page for 2015 also lists a Civil Objective Paper II PDF attachment. IES Academy's 2015 Civil Paper II Set D answer key was opened and its 120 question entries were extracted into `data/provider_answer_keys/2015_P2_set_D.json`. The answer key is provider-attributed, not an official UPSC key, and has not been independently solved or compared with a retrieved Set D question paper.
+
+**Retrieval limitation:** the Drive and IESect paper links returned cache-miss / inaccessible-PDF errors in this execution environment. Their page listings and direct URLs are recorded, but the paper contents could not be downloaded for page-by-page transcription. No question text has been fabricated or imported.
