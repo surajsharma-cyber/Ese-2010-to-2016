@@ -302,3 +302,14 @@ The earlier ambiguity arose from a separate search result whose slug contained "
 https://iasexamportal.com/ies/previous-papers/objective-civil-engineering-ii-2013
 
 That page explicitly labels the paper as Engineering Services Exam 2013, Objective Papers, Civil Engineering Paper II, and states "Courtesy: upsc.gov.in". Therefore the 2013 Paper II listing is now classified SECONDARY LISTING CONFIRMED, not ambiguous. The actual PDF remains to be downloaded and checked against an official original.
+
+
+## PDF file retrieval results — 2013–2015
+
+Additional file-level retrieval was attempted after locating the year-specific listings:
+
+- 2013 Civil Objective Paper I and Paper II each resolve to separate ZIP files on static.upscportal.com. The web retrieval environment rejects the ZIP content type, so the files are located but not inspected.
+- 2014 Civil Objective Paper I opened as a 24-page PDF; Paper II opened as a 20-page PDF. Both are secondary-hosted files carrying IAS Exam Portal download attribution. They have not yet been checked page-by-page against official originals.
+- 2015 Civil Objective Paper I and Paper II download URLs are exposed by the year-specific listing, but the PDF retrieval returned a cache miss. The links are retained in `data/source_inventory.json`.
+
+This is an improvement in source recovery, not a verification claim. The 2013 and 2014 question contents remain unaudited; the 2015 files remain inaccessible in this retrieval pass.
