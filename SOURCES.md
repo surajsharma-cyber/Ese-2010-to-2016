@@ -199,3 +199,39 @@ https://upsc.gov.in/sites/default/files/UPSC_AR_2015-16_ENG_0.pdf
 ### Data admission decision
 
 The 2016 Paper I comparison is now supported for the 12 inspected question numbers, with Q21's diagram check outstanding. The remaining 108 Paper I questions and all 120 Paper II questions still require review. No answer key has been validated against an official UPSC answer key. No complete paper is labelled verified.
+
+
+## Correction to the 2016 Paper I sample audit — 2026-11-18
+
+A searchable text extraction of the 2016 official Paper I scan was inspected against the ExamElite HTML question list. This revealed that the earlier visual audit over-called some option matches. The audit table above is superseded by this corrected result:
+
+| Question | Corrected comparison |
+|---|---|
+| 7 | Text and options match |
+| 8 | Text and options match |
+| 9 | Text and options match |
+| 10 | Text and options match |
+| 11 | Text and options match |
+| 12 | Text and options match |
+| 19 | Text and options match |
+| 20 | OPTION ORDER/CONTENT MISMATCH: official UPSC options C and D differ from ExamElite's displayed C and D |
+| 21 | Stem and numerical conditions match; option graphics in the ExamElite HTML cannot be read from the extracted text, so option/diagram comparison remains pending |
+| 22 | Text and options match |
+| 23 | OPTION CONTENT MISMATCH: official UPSC option C is "2 only" and option D is "1, 2 and 3"; ExamElite displays different C/D options |
+| 24 | Text and options match |
+
+Corrected count: **9 complete text-and-option matches; 2 confirmed option mismatches; 1 question held pending graphic/option comparison** among the 12 sampled questions.
+
+The earlier statement that all options matched for Q19–Q24 was incorrect. Q20 and Q23 must not be imported from the ExamElite transcription. This correction is controlling over the earlier audit table.
+
+Official PDF text extraction inspected:
+https://www.pyqonline.com/exam/upsc/papers/ese/ese-objective-civil-engineering-paper-1-2016.pdf
+
+The PDF is a secondary-hosted copy of the official scan. The authoritative primary source remains the direct UPSC PDF link above. The official UPSC PDF and this scan share the same cover identifiers and page content in the inspected sections.
+
+### Answer-key source lead
+
+A third-party index exists for 2016 answer keys, including Civil Engineering Paper I and Paper II:
+https://iasexamportal.com/ies/answer-key/2016
+
+It labels the keys as courtesy UPSC, but the actual key files have not been opened and matched to official UPSC key documents. Therefore answer-key status remains NOT VERIFIED. Do not import these keys as authoritative.
