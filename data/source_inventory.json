@@ -27,6 +27,12 @@
             "source_type": "third_party_file_catalog",
             "status": "year_entry_listed_drive_folder_linked_browser_retrieval_cache_miss",
             "source_policy": "provider_attribution_accepted_if_document_is_retrieved"
+          },
+          {
+            "title": "Engineers Forum — ESE Civil 2010 Objective Paper II PDF",
+            "url": "https://drive.google.com/file/d/0B-T3d5xNT5cxdWNnanlGN1JYUGc/view?usp=sharing",
+            "source_type": "third_party_direct_file_link",
+            "status": "provider_page_identifies_year_and_objective_paper_ii;_drive_file_cache_miss_in_this_runtime"
           }
         ],
         "scope": "IN_SCOPE_ONLY_CIVIL_TECHNICAL_OBJECTIVE_PAPER_II"
@@ -58,6 +64,12 @@
             "source_type": "third_party_file_catalog",
             "status": "year_entry_listed_drive_folder_linked_browser_retrieval_cache_miss",
             "source_policy": "provider_attribution_accepted_if_document_is_retrieved"
+          },
+          {
+            "title": "Engineers Forum — ESE Civil 2011 Objective Paper II PDF",
+            "url": "https://drive.google.com/file/d/0B-T3d5xNT5cxSGVGdmNGenhhQ2c/view?usp=sharing",
+            "source_type": "third_party_direct_file_link",
+            "status": "provider_page_identifies_year_and_objective_paper_ii;_drive_file_cache_miss_in_this_runtime"
           }
         ],
         "scope": "IN_SCOPE_ONLY_CIVIL_TECHNICAL_OBJECTIVE_PAPER_II"
@@ -89,6 +101,12 @@
             "source_type": "third_party_file_catalog",
             "status": "year_entry_listed_drive_folder_linked_browser_retrieval_cache_miss",
             "source_policy": "provider_attribution_accepted_if_document_is_retrieved"
+          },
+          {
+            "title": "Engineers Forum — ESE Civil 2012 Objective Paper II PDF",
+            "url": "https://drive.google.com/file/d/0B-T3d5xNT5cxWHBvU2g5UjdEa0k/view?usp=sharing",
+            "source_type": "third_party_direct_file_link",
+            "status": "provider_page_identifies_year_and_objective_paper_ii;_drive_file_cache_miss_in_this_runtime"
           }
         ],
         "scope": "IN_SCOPE_ONLY_CIVIL_TECHNICAL_OBJECTIVE_PAPER_II"
@@ -122,6 +140,12 @@
             "source_type": "third_party_file_catalog",
             "status": "year_entry_listed_drive_folder_linked_browser_retrieval_cache_miss",
             "source_policy": "provider_attribution_accepted_if_document_is_retrieved"
+          },
+          {
+            "title": "Engineers Forum — ESE Civil 2013 Objective Paper II PDF",
+            "url": "https://drive.google.com/file/d/0B-T3d5xNT5cxWkh1VUJhTzVOSnc/view?usp=sharing",
+            "source_type": "third_party_direct_file_link",
+            "status": "provider_page_identifies_year_and_objective_paper_ii;_drive_file_cache_miss_in_this_runtime"
           }
         ],
         "scope": "IN_SCOPE_ONLY_CIVIL_TECHNICAL_OBJECTIVE_PAPER_II"
@@ -173,6 +197,12 @@
             "url": "https://drive.google.com/drive/folders/1tVTDHr6OTtlXJ8NBb79DDjYJMEnF40k4",
             "source_type": "third_party_file_catalog",
             "status": "folder_linked_cache_miss"
+          },
+          {
+            "title": "Engineers Forum — ESE Civil 2014 Objective Paper II PDF",
+            "url": "https://drive.google.com/file/d/0B-T3d5xNT5cxR2x5ajhBeWdfd1U/view?usp=sharing",
+            "source_type": "third_party_direct_file_link",
+            "status": "provider_page_identifies_year_and_objective_paper_ii;_drive_file_cache_miss_in_this_runtime"
           }
         ],
         "third_party_source_policy": "ACCEPT_PROVIDER_AS_SOURCE_OF_RECORD_ONCE_PDF_RETRIEVED",
@@ -225,6 +255,18 @@
             "url": "https://www.educationobserver.com/forum/showthread.php?tid=19864",
             "source_type": "third_party_forum_attachment_index",
             "status": "thread_lists_paper_I_and_II_pdf_attachments_not_downloaded"
+          },
+          {
+            "title": "Engineers Forum — ESE Civil 2015 Objective Paper II PDF",
+            "url": "https://drive.google.com/file/d/0B-T3d5xNT5cxVUZRVGFKVmxYUG8/view?usp=sharing",
+            "source_type": "third_party_direct_file_link",
+            "status": "provider_page_identifies_year_and_objective_paper_ii;_drive_file_cache_miss_in_this_runtime"
+          },
+          {
+            "title": "IES Academy — ESE 2015 Civil Objective Paper II Set D answer key",
+            "url": "https://www.iesacademy.com/uploaded_files/solution/small-1434365018.pdf",
+            "source_type": "third_party_answer_key",
+            "status": "PDF_text_opened_120_question_entries_set_D"
           }
         ],
         "third_party_source_policy": "ACCEPT_PROVIDER_AS_SOURCE_OF_RECORD_ONCE_PDF_RETRIEVED",
@@ -284,6 +326,12 @@
             "url": "https://www.pyqonline.com/exam/upsc/papers/ese/ese-objective-civil-engineering-paper-1-2016.pdf",
             "source_type": "third_party_searchable_scan",
             "status": "searchable_pdf_opened_120_questions"
+          },
+          {
+            "title": "All Exam Review / IESect — ESE Civil 2016 Objective Paper II PDF",
+            "url": "https://iesect.in/uploads/selection/IMG_11AFE9-1C4099-9661A4-78A2C7-976BF7-3FD396.pdf",
+            "source_type": "third_party_direct_pdf",
+            "status": "provider_page_identifies_Civil_Objective_Paper_II;_PDF_retrieval_cache_miss"
           }
         ],
         "secondary_audit": {
