@@ -379,3 +379,8 @@ ExamElite's public catalogue identifies ESE Civil Engineering Paper I and II ent
 - https://examelite.com/previous-year-papers/ese-gate-ce-previous-year-papers/analysis
 
 **Audit correction:** the earlier 18-question 2016 Paper I comparison was not a completed official-source audit. It is no longer counted as verified question-level work. Current verified question admissions remain zero. The paper-level inventory is a source-discovery register, not proof of question transcription accuracy.
+
+
+## Source access audit
+
+A detailed execution report for the opened 2016 secondary PDFs, official-source retrieval failures, answer-key status and copyright-safe admission policy is available in [docs/source-access-audit.md](docs/source-access-audit.md).
