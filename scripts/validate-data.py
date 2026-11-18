@@ -32,3 +32,16 @@ for i, q in enumerate(questions, 1):
     if answer_key:
         assert answer_key.get("status") in ("VERIFIED", "PROVISIONAL", "DISPUTED", "UNVERIFIED")
 print(f"Validated {len(questions)} verified question records.")
+
+# Confirm that the audit ledger covers every in-scope year/paper pair.
+ledger = json.loads((root / "data/paper_audit_status.json").read_text(encoding="utf-8"))
+assert ledger["totals"]["papers_in_scope"] == 14
+assert len(ledger["papers"]) == 14
+for year in range(2010, 2017):
+    for paper in (1, 2):
+        key = f"{year}_P{paper}"
+        assert key in ledger["papers"], f"Missing audit status: {key}"
+        record = ledger["papers"][key]
+        assert record["year"] == year and record["paper_number"] == paper
+        assert record["answer_key_status"] == "NOT_AUTHENTICATED" or record["answer_key_status"] == "VERIFIED"
+print("Validated audit status for all 14 in-scope papers.")
