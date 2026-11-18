@@ -101,3 +101,42 @@ ExamElite also lists generic entries named "Civil Engineering (CE)" for 2010, 20
 - Answer keys: NONE VERIFIED against an official UPSC key.
 
 No question records are admitted to `data/questions.json` by this workstream. This prevents unverified or misclassified questions from entering the portal.
+
+
+## Direct examination of primary PDFs — 2026-11-18
+
+### 2016 official cover-page verification
+
+Both UPSC-hosted PDFs were opened and their first pages visually inspected.
+
+| Official paper | Cover-page facts confirmed | Status |
+|---|---|---|
+| Civil Engineering Paper I | Engineering Services Examination 2016; Civil Engineering; Paper I; 120 questions; 2 hours; 200 marks; one-third penalty for a wrong answer | OFFICIAL COVER VERIFIED |
+| Civil Engineering Paper II | Engineering Services Examination 2016; Civil Engineering; Paper II; 120 questions; 2 hours; 200 marks; one-third penalty for a wrong answer | OFFICIAL COVER VERIFIED |
+
+Official originals:
+- [UPSC 2016 Civil Objective Paper I](https://www.upsc.gov.in/sites/default/files/1%20CIVIL%20ENGG%20PAPER-1A.pdf)
+- [UPSC 2016 Civil Objective Paper II](https://www.upsc.gov.in/sites/default/files/2%20CIVIL%20ENGG%20PAPER-2B.pdf)
+
+The Paper I scan's printed page 3 (PDF page index 2) was also visually inspected. It contains questions 7–12 on cement, concrete mix, rheology and curing. This confirms that the official PDF is a technical Civil objective paper beyond the cover page.
+
+### Limits of question-by-question matching
+
+ExamElite's 2016 Paper I page exposes five sample questions and identifies the paper as 120 MCQs. The full third-party question list/PDF was not available for direct extraction in the inspection session. The official UPSC scan is image-based; only the cover and one question page were successfully inspected. Therefore:
+- Paper identity and paper metadata: VERIFIED against UPSC.
+- Full 120-question transcription: NOT VERIFIED.
+- ExamElite sample question wording/options against the corresponding UPSC pages: NOT VERIFIED.
+- ExamElite answer explanations/keys against an official UPSC key: NOT VERIFIED.
+
+Do not use the phrase "question-by-question verified" for either 2016 paper at this stage. Do not import ExamElite's sample questions or answer keys into the live question dataset yet.
+
+### 2011 source clarification
+
+IAS Exam Portal has separate pages labelled Engineering Services Examination 2011, Objective Papers, Civil Engineering Paper I and Paper II, and each page states "Courtesy: upsc.gov.in". These are secondary-hosted copies/records, not current direct UPSC-hosted URLs. The pages establish the paper labels and claimed provenance, but the PDF attachments themselves still need to be downloaded and compared with a primary original.
+
+- [2011 Civil Objective Paper I listing](https://iasexamportal.com/engineering-services/download/exam-paper-2011-objective-civil-engineering-i)
+- [2011 Civil Objective Paper II listing](https://iasexamportal.com/engineering-services/download/exam-paper-2011-objective-civil-engineering-ii)
+
+### Repository admission decision
+
+No questions have been admitted to `data/questions.json` in this pass. The available evidence is sufficient to establish official 2016 source identity and to confirm secondary listing leads, but not sufficient to certify a full question bank or its answer keys. This is an intentional quality gate, not a claim that no usable questions exist.
