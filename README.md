@@ -56,3 +56,7 @@ See `data/questions.json`. Each future question record should include at minimum
 ## Disclaimer
 
 This is an independent educational project and is not affiliated with or endorsed by UPSC.
+
+## Source inventory
+
+See [SOURCES.md](SOURCES.md) for the official UPSC source register, confirmed 2016 Civil Engineering Objective Paper I and II links, and the pending retrieval status for 2010–2015.
