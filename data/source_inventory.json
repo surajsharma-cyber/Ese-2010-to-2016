@@ -271,8 +271,21 @@
             "source_type": "third_party_file_catalog",
             "status": "year_entry_listed_drive_folder_linked_browser_retrieval_cache_miss",
             "source_policy": "provider_attribution_accepted_if_document_is_retrieved"
+          },
+          {
+            "title": "PYQSathi ESE 2014 paper catalogue (Civil objective Paper I and II listed)",
+            "url": "https://pyqsathi.com/exams/upsc/upsc-ese/2014/",
+            "source_type": "third_party_catalogue",
+            "status": "both_civil_objective_papers_listed_official_upsc_source_claimed"
+          },
+          {
+            "title": "My UPSC Syllabus ESE CE 2014 download folder",
+            "url": "https://drive.google.com/drive/folders/1tVTDHr6OTtlXJ8NBb79DDjYJMEnF40k4",
+            "source_type": "third_party_file_catalog",
+            "status": "folder_linked_cache_miss"
           }
-        ]
+        ],
+        "third_party_source_policy": "ACCEPT_PROVIDER_AS_SOURCE_OF_RECORD_ONCE_PDF_RETRIEVED"
       },
       "paper2": {
         "url": "https://iasexamportal.com/ies/previous-papers/objective-civil-engineering-paper-ii-2014",
@@ -307,8 +320,21 @@
             "source_type": "third_party_file_catalog",
             "status": "year_entry_listed_drive_folder_linked_browser_retrieval_cache_miss",
             "source_policy": "provider_attribution_accepted_if_document_is_retrieved"
+          },
+          {
+            "title": "PYQSathi ESE 2014 paper catalogue (Civil objective Paper I and II listed)",
+            "url": "https://pyqsathi.com/exams/upsc/upsc-ese/2014/",
+            "source_type": "third_party_catalogue",
+            "status": "both_civil_objective_papers_listed_official_upsc_source_claimed"
+          },
+          {
+            "title": "My UPSC Syllabus ESE CE 2014 download folder",
+            "url": "https://drive.google.com/drive/folders/1tVTDHr6OTtlXJ8NBb79DDjYJMEnF40k4",
+            "source_type": "third_party_file_catalog",
+            "status": "folder_linked_cache_miss"
           }
-        ]
+        ],
+        "third_party_source_policy": "ACCEPT_PROVIDER_AS_SOURCE_OF_RECORD_ONCE_PDF_RETRIEVED"
       }
     },
     "2015": {
@@ -339,8 +365,27 @@
             "source_type": "third_party_file_catalog",
             "status": "year_entry_listed_drive_folder_linked_browser_retrieval_cache_miss",
             "source_policy": "provider_attribution_accepted_if_document_is_retrieved"
+          },
+          {
+            "title": "PYQSathi ESE 2015 paper catalogue (Civil objective Paper I and II)",
+            "url": "https://pyqsathi.com/exams/upsc/upsc-ese/2015/",
+            "source_type": "third_party_catalogue",
+            "status": "both_civil_objective_papers_listed_official_upsc_source_claimed"
+          },
+          {
+            "title": "IES Academy ESE 2015 Civil Objective Paper II answer key",
+            "url": "https://www.iesacademy.com/uploaded_files/solution/small-1434365018.pdf",
+            "source_type": "third_party_answer_key",
+            "status": "answer_key_pdf_opened_120_items_set_D_secondary_provider_key"
+          },
+          {
+            "title": "Education Observer ESE 2015 Civil objective papers thread",
+            "url": "https://www.educationobserver.com/forum/showthread.php?tid=19864",
+            "source_type": "third_party_forum_attachment_index",
+            "status": "thread_lists_paper_I_and_II_pdf_attachments_not_downloaded"
           }
-        ]
+        ],
+        "third_party_source_policy": "ACCEPT_PROVIDER_AS_SOURCE_OF_RECORD_ONCE_PDF_RETRIEVED"
       },
       "paper2": {
         "url": "https://iasexamportal.com/ies/previous-papers/2015-civil-engineering",
@@ -369,8 +414,27 @@
             "source_type": "third_party_file_catalog",
             "status": "year_entry_listed_drive_folder_linked_browser_retrieval_cache_miss",
             "source_policy": "provider_attribution_accepted_if_document_is_retrieved"
+          },
+          {
+            "title": "PYQSathi ESE 2015 paper catalogue (Civil objective Paper I and II)",
+            "url": "https://pyqsathi.com/exams/upsc/upsc-ese/2015/",
+            "source_type": "third_party_catalogue",
+            "status": "both_civil_objective_papers_listed_official_upsc_source_claimed"
+          },
+          {
+            "title": "IES Academy ESE 2015 Civil Objective Paper II answer key",
+            "url": "https://www.iesacademy.com/uploaded_files/solution/small-1434365018.pdf",
+            "source_type": "third_party_answer_key",
+            "status": "answer_key_pdf_opened_120_items_set_D_secondary_provider_key"
+          },
+          {
+            "title": "Education Observer ESE 2015 Civil objective papers thread",
+            "url": "https://www.educationobserver.com/forum/showthread.php?tid=19864",
+            "source_type": "third_party_forum_attachment_index",
+            "status": "thread_lists_paper_I_and_II_pdf_attachments_not_downloaded"
           }
-        ]
+        ],
+        "third_party_source_policy": "ACCEPT_PROVIDER_AS_SOURCE_OF_RECORD_ONCE_PDF_RETRIEVED"
       }
     },
     "2016": {
@@ -414,6 +478,18 @@
             "source_type": "third_party_file_catalog",
             "status": "year_entry_listed_drive_folder_linked_browser_retrieval_cache_miss",
             "source_policy": "provider_attribution_accepted_if_document_is_retrieved"
+          },
+          {
+            "title": "PYQSathi ESE 2016 Civil objective papers",
+            "url": "https://pyqsathi.com/exams/upsc/upsc-ese/2016/",
+            "source_type": "third_party_catalogue",
+            "status": "both_civil_objective_papers_linked_to_UPSC_original"
+          },
+          {
+            "title": "PYQOnline ESE 2016 Civil Paper I searchable PDF",
+            "url": "https://www.pyqonline.com/exam/upsc/papers/ese/ese-objective-civil-engineering-paper-1-2016.pdf",
+            "source_type": "third_party_searchable_scan",
+            "status": "searchable_pdf_opened_120_questions"
           }
         ],
         "secondary_audit": {
@@ -424,7 +500,8 @@
           "question_count_declared": 120,
           "page_by_page_official_comparison": "BLOCKED_OFFICIAL_PDF_PAGE_IMAGE_RETRIEVAL_FAILURE",
           "answer_key": "SECONDARY_PRINTED_KEY_ONLY_NOT_OFFICIAL"
-        }
+        },
+        "third_party_source_policy": "ACCEPT_PROVIDER_AS_SOURCE_OF_RECORD_ONCE_PDF_RETRIEVED"
       },
       "paper2": {
         "url": "https://www.upsc.gov.in/sites/default/files/2%20CIVIL%20ENGG%20PAPER-2B.pdf",
@@ -466,6 +543,18 @@
             "source_type": "third_party_file_catalog",
             "status": "year_entry_listed_drive_folder_linked_browser_retrieval_cache_miss",
             "source_policy": "provider_attribution_accepted_if_document_is_retrieved"
+          },
+          {
+            "title": "PYQSathi ESE 2016 Civil objective papers",
+            "url": "https://pyqsathi.com/exams/upsc/upsc-ese/2016/",
+            "source_type": "third_party_catalogue",
+            "status": "both_civil_objective_papers_linked_to_UPSC_original"
+          },
+          {
+            "title": "PYQOnline ESE 2016 Civil Paper I searchable PDF",
+            "url": "https://www.pyqonline.com/exam/upsc/papers/ese/ese-objective-civil-engineering-paper-1-2016.pdf",
+            "source_type": "third_party_searchable_scan",
+            "status": "searchable_pdf_opened_120_questions"
           }
         ],
         "secondary_audit": {
@@ -473,7 +562,8 @@
           "ace_pdf_pages": 40,
           "page_by_page_official_comparison": "BLOCKED_OFFICIAL_PDF_PAGE_IMAGE_RETRIEVAL_FAILURE",
           "answer_key": "SECONDARY_PRINTED_KEY_ONLY_NOT_OFFICIAL"
-        }
+        },
+        "third_party_source_policy": "ACCEPT_PROVIDER_AS_SOURCE_OF_RECORD_ONCE_PDF_RETRIEVED"
       }
     }
   },
