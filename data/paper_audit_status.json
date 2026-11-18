@@ -28,90 +28,122 @@
       "year": 2010,
       "paper_number": 2,
       "title": "ESE 2010 Civil Engineering Objective Paper 2",
-      "question_audit_status": "NOT_STARTED",
+      "question_audit_status": "SOURCE_LINKS_IDENTIFIED_PDF_BYTES_NOT_RETRIEVED",
       "questions_expected": null,
       "questions_sampled": 0,
       "verified_questions_admitted": 0,
       "answer_key_status": "NOT_AUTHENTICATED",
       "blockers": [
-        "Actual provider PDF must be retrieved from listed third-party source before transcription",
-        "No question records admitted yet"
+        "Provider paper links have been identified, but file bytes are not accessible from this runtime (Drive/IESect cache miss or network egress unavailable).",
+        "No question transcription can be validated without inspecting the paper pages."
       ],
       "third_party_source_policy": "PROVIDER_SOURCE_ACCEPTED_WHEN_IDENTIFIED_FILE_RETRIEVED",
       "third_party_catalogue_sources": [
         "Mathematical Society",
         "My UPSC Syllabus"
+      ],
+      "provider_download_links": [
+        {
+          "title": "Engineers Forum — ESE Civil 2010 Objective Paper II PDF",
+          "url": "https://drive.google.com/file/d/0B-T3d5xNT5cxdWNnanlGN1JYUGc/view?usp=sharing",
+          "source_type": "third_party_direct_file_link",
+          "status": "provider_page_identifies_year_and_objective_paper_ii;_drive_file_cache_miss_in_this_runtime"
+        }
       ]
     },
     "2011_P2": {
       "year": 2011,
       "paper_number": 2,
       "title": "ESE 2011 Civil Engineering Objective Paper 2",
-      "question_audit_status": "NOT_STARTED",
+      "question_audit_status": "SOURCE_LINKS_IDENTIFIED_PDF_BYTES_NOT_RETRIEVED",
       "questions_expected": null,
       "questions_sampled": 0,
       "verified_questions_admitted": 0,
       "answer_key_status": "NOT_AUTHENTICATED",
       "blockers": [
-        "Actual provider PDF must be retrieved from listed third-party source before transcription",
-        "No question records admitted yet"
+        "Provider paper links have been identified, but file bytes are not accessible from this runtime (Drive/IESect cache miss or network egress unavailable).",
+        "No question transcription can be validated without inspecting the paper pages."
       ],
       "third_party_source_policy": "PROVIDER_SOURCE_ACCEPTED_WHEN_IDENTIFIED_FILE_RETRIEVED",
       "third_party_catalogue_sources": [
         "Mathematical Society",
         "My UPSC Syllabus"
+      ],
+      "provider_download_links": [
+        {
+          "title": "Engineers Forum — ESE Civil 2011 Objective Paper II PDF",
+          "url": "https://drive.google.com/file/d/0B-T3d5xNT5cxSGVGdmNGenhhQ2c/view?usp=sharing",
+          "source_type": "third_party_direct_file_link",
+          "status": "provider_page_identifies_year_and_objective_paper_ii;_drive_file_cache_miss_in_this_runtime"
+        }
       ]
     },
     "2012_P2": {
       "year": 2012,
       "paper_number": 2,
       "title": "ESE 2012 Civil Engineering Objective Paper 2",
-      "question_audit_status": "NOT_STARTED",
+      "question_audit_status": "SOURCE_LINKS_IDENTIFIED_PDF_BYTES_NOT_RETRIEVED",
       "questions_expected": null,
       "questions_sampled": 0,
       "verified_questions_admitted": 0,
       "answer_key_status": "NOT_AUTHENTICATED",
       "blockers": [
-        "Actual provider PDF must be retrieved from listed third-party source before transcription",
-        "No question records admitted yet"
+        "Provider paper links have been identified, but file bytes are not accessible from this runtime (Drive/IESect cache miss or network egress unavailable).",
+        "No question transcription can be validated without inspecting the paper pages."
       ],
       "third_party_source_policy": "PROVIDER_SOURCE_ACCEPTED_WHEN_IDENTIFIED_FILE_RETRIEVED",
       "third_party_catalogue_sources": [
         "Mathematical Society",
         "My UPSC Syllabus"
+      ],
+      "provider_download_links": [
+        {
+          "title": "Engineers Forum — ESE Civil 2012 Objective Paper II PDF",
+          "url": "https://drive.google.com/file/d/0B-T3d5xNT5cxWHBvU2g5UjdEa0k/view?usp=sharing",
+          "source_type": "third_party_direct_file_link",
+          "status": "provider_page_identifies_year_and_objective_paper_ii;_drive_file_cache_miss_in_this_runtime"
+        }
       ]
     },
     "2013_P2": {
       "year": 2013,
       "paper_number": 2,
       "title": "ESE 2013 Civil Engineering Objective Paper 2",
-      "question_audit_status": "NOT_STARTED",
+      "question_audit_status": "SOURCE_LINKS_IDENTIFIED_PDF_BYTES_NOT_RETRIEVED",
       "questions_expected": null,
       "questions_sampled": 0,
       "verified_questions_admitted": 0,
       "answer_key_status": "NOT_AUTHENTICATED",
       "blockers": [
-        "Actual provider PDF must be retrieved from listed third-party source before transcription",
-        "No question records admitted yet"
+        "Provider paper links have been identified, but file bytes are not accessible from this runtime (Drive/IESect cache miss or network egress unavailable).",
+        "No question transcription can be validated without inspecting the paper pages."
       ],
       "third_party_source_policy": "PROVIDER_SOURCE_ACCEPTED_WHEN_IDENTIFIED_FILE_RETRIEVED",
       "third_party_catalogue_sources": [
         "Mathematical Society",
         "My UPSC Syllabus"
+      ],
+      "provider_download_links": [
+        {
+          "title": "Engineers Forum — ESE Civil 2013 Objective Paper II PDF",
+          "url": "https://drive.google.com/file/d/0B-T3d5xNT5cxWkh1VUJhTzVOSnc/view?usp=sharing",
+          "source_type": "third_party_direct_file_link",
+          "status": "provider_page_identifies_year_and_objective_paper_ii;_drive_file_cache_miss_in_this_runtime"
+        }
       ]
     },
     "2014_P2": {
       "year": 2014,
       "paper_number": 2,
       "title": "ESE 2014 Civil Engineering Objective Paper 2",
-      "question_audit_status": "NOT_STARTED",
+      "question_audit_status": "SOURCE_LINKS_IDENTIFIED_PDF_BYTES_NOT_RETRIEVED",
       "questions_expected": null,
       "questions_sampled": 0,
       "verified_questions_admitted": 0,
       "answer_key_status": "NOT_AUTHENTICATED",
       "blockers": [
-        "Actual provider PDF must be retrieved from listed third-party source before transcription",
-        "No question records admitted yet"
+        "Provider paper links have been identified, but file bytes are not accessible from this runtime (Drive/IESect cache miss or network egress unavailable).",
+        "No question transcription can be validated without inspecting the paper pages."
       ],
       "third_party_source_policy": "PROVIDER_SOURCE_ACCEPTED_WHEN_IDENTIFIED_FILE_RETRIEVED",
       "third_party_catalogue_sources": [
@@ -131,20 +163,28 @@
           "source_type": "third_party_file_catalog",
           "status": "folder_linked_cache_miss"
         }
+      ],
+      "provider_download_links": [
+        {
+          "title": "Engineers Forum — ESE Civil 2014 Objective Paper II PDF",
+          "url": "https://drive.google.com/file/d/0B-T3d5xNT5cxR2x5ajhBeWdfd1U/view?usp=sharing",
+          "source_type": "third_party_direct_file_link",
+          "status": "provider_page_identifies_year_and_objective_paper_ii;_drive_file_cache_miss_in_this_runtime"
+        }
       ]
     },
     "2015_P2": {
       "year": 2015,
       "paper_number": 2,
       "title": "ESE 2015 Civil Engineering Objective Paper 2",
-      "question_audit_status": "NOT_STARTED",
+      "question_audit_status": "ANSWER_KEY_IMPORTED_QUESTION_PDF_NOT_RETRIEVED",
       "questions_expected": null,
       "questions_sampled": 0,
       "verified_questions_admitted": 0,
-      "answer_key_status": "NOT_AUTHENTICATED",
+      "answer_key_status": "PROVIDER_KEY_IMPORTED_SET_D_NOT_INDEPENDENTLY_CHECKED",
       "blockers": [
-        "Actual provider PDF must be retrieved from listed third-party source before transcription",
-        "No question records admitted yet"
+        "Provider paper links have been identified, but file bytes are not accessible from this runtime (Drive/IESect cache miss or network egress unavailable).",
+        "No question transcription can be validated without inspecting the paper pages."
       ],
       "third_party_source_policy": "PROVIDER_SOURCE_ACCEPTED_WHEN_IDENTIFIED_FILE_RETRIEVED",
       "third_party_catalogue_sources": [
@@ -174,25 +214,31 @@
       "answer_key_candidate": {
         "url": "https://www.iesacademy.com/uploaded_files/solution/small-1434365018.pdf",
         "provider": "IES Academy",
-        "status": "PROVIDER_KEY_AVAILABLE_NOT_YET_IMPORTED",
         "set": "D",
-        "items": 120
-      }
+        "items": 120,
+        "status": "text extracted from PDF; imported separately; not official UPSC key"
+      },
+      "provider_download_links": [
+        {
+          "title": "Engineers Forum — ESE Civil 2015 Objective Paper II PDF",
+          "url": "https://drive.google.com/file/d/0B-T3d5xNT5cxVUZRVGFKVmxYUG8/view?usp=sharing",
+          "source_type": "third_party_direct_file_link",
+          "status": "provider_page_identifies_year_and_objective_paper_ii;_drive_file_cache_miss_in_this_runtime"
+        }
+      ]
     },
     "2016_P2": {
       "year": 2016,
       "paper_number": 2,
       "title": "ESE 2016 Civil Engineering Objective Paper 2",
-      "question_audit_status": "SECONDARY_COPY_OPENED_OFFICIAL_COMPARISON_BLOCKED",
+      "question_audit_status": "SOURCE_LINKS_IDENTIFIED_PDF_BYTES_NOT_RETRIEVED",
       "questions_expected": 120,
       "questions_sampled": 0,
       "verified_questions_admitted": 0,
       "answer_key_status": "SECONDARY_KEY_ONLY_NOT_OFFICIAL",
       "blockers": [
-        "UPSC original PDF page images return retrieval/cache errors in this environment",
-        "Secondary copy has not been compared page-by-page with the official original",
-        "Printed coaching answer key is not an official UPSC answer key",
-        "No question records admitted to the live bank"
+        "Provider paper links have been identified, but file bytes are not accessible from this runtime (Drive/IESect cache miss or network egress unavailable).",
+        "No question transcription can be validated without inspecting the paper pages."
       ],
       "alternate_sources": [
         {
@@ -235,6 +281,14 @@
           "url": "https://www.pyqonline.com/exam/upsc/papers/ese/ese-objective-civil-engineering-paper-1-2016.pdf",
           "source_type": "third_party_searchable_scan",
           "status": "searchable_pdf_opened_120_questions"
+        }
+      ],
+      "provider_download_links": [
+        {
+          "title": "All Exam Review / IESect — ESE Civil 2016 Objective Paper II PDF",
+          "url": "https://iesect.in/uploads/selection/IMG_11AFE9-1C4099-9661A4-78A2C7-976BF7-3FD396.pdf",
+          "source_type": "third_party_direct_pdf",
+          "status": "provider_page_identifies_Civil_Objective_Paper_II;_PDF_retrieval_cache_miss"
         }
       ]
     }
