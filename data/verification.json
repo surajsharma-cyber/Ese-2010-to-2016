@@ -13,11 +13,11 @@
       "cover_metadata": "VERIFIED",
       "total_questions": 120,
       "question_level_audit": {
-        "sampled": 12,
-        "complete_text_and_options_match": 9,
-        "confirmed_option_mismatches": 2,
-        "options_or_diagram_pending": 1,
-        "not_sampled": 108
+        "sampled": 18,
+        "complete_text_and_options_match": 13,
+        "confirmed_option_mismatches": 3,
+        "number_or_diagram_pending": 2,
+        "not_sampled": 102
       },
       "answer_key": "NOT_VERIFIED"
     },
@@ -35,6 +35,84 @@
     }
   },
   "sampled_questions": [
+    {
+      "id": "ESE-2016-CE-P1-Q1",
+      "year": 2016,
+      "paper": "Civil Engineering Objective Paper I",
+      "question_number": 1,
+      "official_pdf_page_index": 1,
+      "official_printed_page": 2,
+      "secondary_source": "ExamElite ESE (IES) Civil Engineering P1 2016",
+      "transcription_status": "NUMBER_TEXT_REQUIRES_VISUAL_CONFIRMATION",
+      "diagram_status": "PENDING",
+      "answer_key_status": "NOT_VERIFIED",
+      "publication_status": "HOLD"
+    },
+    {
+      "id": "ESE-2016-CE-P1-Q2",
+      "year": 2016,
+      "paper": "Civil Engineering Objective Paper I",
+      "question_number": 2,
+      "official_pdf_page_index": 1,
+      "official_printed_page": 2,
+      "secondary_source": "ExamElite ESE (IES) Civil Engineering P1 2016",
+      "transcription_status": "TEXT_AND_OPTIONS_MATCH",
+      "diagram_status": "NOT_APPLICABLE",
+      "answer_key_status": "NOT_VERIFIED",
+      "publication_status": "AUDIT_ONLY"
+    },
+    {
+      "id": "ESE-2016-CE-P1-Q3",
+      "year": 2016,
+      "paper": "Civil Engineering Objective Paper I",
+      "question_number": 3,
+      "official_pdf_page_index": 1,
+      "official_printed_page": 2,
+      "secondary_source": "ExamElite ESE (IES) Civil Engineering P1 2016",
+      "transcription_status": "OPTION_TEXT_MISMATCH",
+      "diagram_status": "NOT_APPLICABLE",
+      "answer_key_status": "NOT_VERIFIED",
+      "publication_status": "HOLD"
+    },
+    {
+      "id": "ESE-2016-CE-P1-Q4",
+      "year": 2016,
+      "paper": "Civil Engineering Objective Paper I",
+      "question_number": 4,
+      "official_pdf_page_index": 1,
+      "official_printed_page": 2,
+      "secondary_source": "ExamElite ESE (IES) Civil Engineering P1 2016",
+      "transcription_status": "TEXT_AND_OPTIONS_MATCH",
+      "diagram_status": "NOT_APPLICABLE",
+      "answer_key_status": "NOT_VERIFIED",
+      "publication_status": "AUDIT_ONLY"
+    },
+    {
+      "id": "ESE-2016-CE-P1-Q5",
+      "year": 2016,
+      "paper": "Civil Engineering Objective Paper I",
+      "question_number": 5,
+      "official_pdf_page_index": 1,
+      "official_printed_page": 2,
+      "secondary_source": "ExamElite ESE (IES) Civil Engineering P1 2016",
+      "transcription_status": "TEXT_AND_OPTIONS_MATCH",
+      "diagram_status": "NOT_APPLICABLE",
+      "answer_key_status": "NOT_VERIFIED",
+      "publication_status": "AUDIT_ONLY"
+    },
+    {
+      "id": "ESE-2016-CE-P1-Q6",
+      "year": 2016,
+      "paper": "Civil Engineering Objective Paper I",
+      "question_number": 6,
+      "official_pdf_page_index": 1,
+      "official_printed_page": 2,
+      "secondary_source": "ExamElite ESE (IES) Civil Engineering P1 2016",
+      "transcription_status": "TEXT_AND_OPTIONS_MATCH",
+      "diagram_status": "NOT_APPLICABLE",
+      "answer_key_status": "NOT_VERIFIED",
+      "publication_status": "AUDIT_ONLY"
+    },
     {
       "id": "ESE-2016-CE-P1-Q7",
       "year": 2016,
@@ -223,5 +301,9 @@
       "answer_correctness_status": "NOT_VERIFIED",
       "publication_status": "PROVISIONAL_CANDIDATE_ONLY"
     }
-  }
+  },
+  "audit_notes": [
+    "Q1 third-party transcription gives 37.5% while searchable official PDF text extraction reads 97.5%; the scan page image could not be rendered in this pass, so the numeral is held for visual confirmation rather than called a confirmed mismatch.",
+    "Q3 third-party transcription lists option B as Hydrogen Sulphite while official PDF text extraction reads Hydrogen Sulphide; recorded as an option-text mismatch."
+  ]
 }
