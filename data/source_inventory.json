@@ -33,32 +33,38 @@
     },
     "2013": {
       "paper1": {
-        "url": "https://iasexamportal.com/ies/previous-papers/objective-civil-engineering-i-2013",
-        "status": "SECONDARY_LISTING_ONLY"
+        "url": "https://static.upscportal.com/files/upsc2013/UPSC-IES-Exam-Papers-2013-Civil-Engineering-Paper-I-www.upscportal.com.zip",
+        "listing": "https://iasexamportal.com/ies/previous-papers/objective-civil-engineering-i-2013",
+        "status": "SECONDARY_ARCHIVE_FILE_LOCATED_DOWNLOAD_BLOCKED"
       },
       "paper2": {
-        "url": "https://iasexamportal.com/ies/previous-papers/objective-civil-engineering-ii-2013",
-        "status": "SECONDARY_LISTING_CONFIRMED"
+        "url": "https://static.upscportal.com/files/upsc2013/UPSC-IES-Exam-Papers-2013-Civil-Engineering-Paper-II-www.upscportal.com.zip",
+        "listing": "https://iasexamportal.com/ies/previous-papers/objective-civil-engineering-ii-2013",
+        "status": "SECONDARY_ARCHIVE_FILE_LOCATED_DOWNLOAD_BLOCKED"
       }
     },
     "2014": {
       "paper1": {
-        "url": "https://iasexamportal.com/ies/previous-papers/objective-civil-engineering-paper-i-2014",
-        "status": "SECONDARY_LISTING_ONLY"
+        "url": "https://static.upscportal.com/files/upsc2014/Download-IES-Objective-Exam-Papers-Civil-Engineering-Paper-I_www.iasexamportal.com.pdf",
+        "listing": "https://iasexamportal.com/ies/previous-papers/objective-civil-engineering-paper-i-2014",
+        "status": "SECONDARY_PDF_OPENED_24_PAGES_NOT_CONTENT_AUDITED"
       },
       "paper2": {
-        "url": "https://iasexamportal.com/ies/previous-papers/objective-civil-engineering-paper-ii-2014",
-        "status": "SECONDARY_LISTING_ONLY"
+        "url": "https://static.upscportal.com/files/upsc2014/Download-IES-Objective-Exam-Papers-Civil-Engineering-Paper-II_www.iasexamportal.com.pdf",
+        "listing": "https://iasexamportal.com/ies/previous-papers/objective-civil-engineering-paper-ii-2014",
+        "status": "SECONDARY_PDF_OPENED_20_PAGES_NOT_CONTENT_AUDITED"
       }
     },
     "2015": {
       "paper1": {
-        "url": "https://iasexamportal.com/ies/previous-papers/2015-civil-engineering",
-        "status": "SECONDARY_INDEX_ONLY"
+        "url": "https://iasexamportal.com/sites/default/files/Download-IES-Exam-Paper-2015-Civil-Engineering-Paper-I_www.iasexamportal.com_.pdf",
+        "listing": "https://iasexamportal.com/ies/previous-papers/2015-civil-engineering",
+        "status": "SECONDARY_PDF_LINK_LOCATED_CACHE_MISS"
       },
       "paper2": {
-        "url": "https://iasexamportal.com/ies/previous-papers/2015-civil-engineering",
-        "status": "SECONDARY_INDEX_ONLY"
+        "url": "https://iasexamportal.com/sites/default/files/Download-IES-Exam-Paper-2015-Civil-Engineering-Paper-II_www.iasexamportal.com_.pdf",
+        "listing": "https://iasexamportal.com/ies/previous-papers/2015-civil-engineering",
+        "status": "SECONDARY_PDF_LINK_LOCATED_CACHE_MISS"
       }
     },
     "2016": {
