@@ -294,3 +294,11 @@ Source: [IES 2010 notification plan of examination (secondary-hosted transcripti
 ### Retrieval limitation
 
 The Education Observer attachment endpoint returned an unsupported download content type in the web inspection environment. The IAS Exam Portal pages expose download links, but the files have not all been retrieved and visually checked. Listing existence is not equivalent to paper verification. Until each PDF is inspected, status remains SECONDARY LISTING FOUND.
+
+
+## Follow-up resolution — 2013 Paper II listing
+
+The earlier ambiguity arose from a separate search result whose slug contained "conventional". The year-indexed Civil Engineering archive was opened and its link for **IES 2013 Objective Papers — Civil Engineering Paper II** was followed. It resolves to:
+https://iasexamportal.com/ies/previous-papers/objective-civil-engineering-ii-2013
+
+That page explicitly labels the paper as Engineering Services Exam 2013, Objective Papers, Civil Engineering Paper II, and states "Courtesy: upsc.gov.in". Therefore the 2013 Paper II listing is now classified SECONDARY LISTING CONFIRMED, not ambiguous. The actual PDF remains to be downloaded and checked against an official original.
