@@ -395,3 +395,8 @@ A detailed execution report for the opened 2016 secondary PDFs, official-source 
 - Mathematical Society's ESE Civil page lists the required years and both prelims papers, but its current download-image links resolve to a generic JPEG in this browser, so those buttons do not currently provide retrievable PDFs.
 
 This pass adds the sources and provenance to the repository. It does not claim that the 2014/2015/2016 papers have been transcribed or that the 2015 provider key has been imported.
+
+
+## Scope correction — Paper II only
+
+The portal now includes only Civil Engineering technical objective Paper II for 2010–2016. Civil Engineering Paper I and the separate General Ability Test (General English / General Studies) are excluded. The modern ESE General Studies and Engineering Aptitude Paper I is also excluded. Under the historical 2010–2016 scheme, the General Ability Test was separate from Civil Engineering Paper I and Paper II; Paper II is the discipline-specific Civil technical objective paper.
