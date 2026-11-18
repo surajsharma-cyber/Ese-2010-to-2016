@@ -27,6 +27,7 @@ jobs:
           python -m json.tool data/questions.schema.json > /dev/null
           python -m json.tool data/source_inventory.json > /dev/null
           python -m json.tool data/verification.json > /dev/null
+          python -m json.tool data/paper_audit_status.json > /dev/null
       - name: Check required static files
         run: |
           test -s index.html
