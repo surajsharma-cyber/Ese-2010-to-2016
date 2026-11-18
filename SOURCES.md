@@ -264,3 +264,33 @@ Status:
 - Publication status: PROVISIONAL CANDIDATE ONLY; do not present as an official verified key.
 
 The official UPSC archive's Answer Keys route did not return a usable 2016 ESE key record during this pass. Until an official UPSC-hosted key is found, these scans must remain provisional and separate from verified answer data.
+
+
+## Expanded year-wise paper-source inventory — 2026-11-18
+
+Search of the IAS Exam Portal's year-indexed IES archive located separately labelled Civil Engineering technical objective-paper records for more years than the original forum-only search. These pages state UPSC as the source/courtesy, but are still secondary hosts. Their PDFs must be checked against primary originals.
+
+| Year | Civil technical objective Paper I | Civil technical objective Paper II | Source classification / current status |
+|---|---|---|---|
+| 2010 | [IES 2010 Civil objective papers index](https://iasexamportal.com/Download/Indian-Engineering-Services-Exam-2010-Objective-Question-Paper-Civil-Engg) | Same index lists Paper II | SECONDARY INDEX FOUND; individual PDFs not yet inspected |
+| 2011 | [Paper I listing](https://iasexamportal.com/engineering-services/download/exam-paper-2011-objective-civil-engineering-i) | [Paper II listing](https://iasexamportal.com/engineering-services/download/exam-paper-2011-objective-civil-engineering-ii) | SECONDARY LISTINGS FOUND; individual PDFs not yet inspected |
+| 2012 | [Paper I listing](https://iasexamportal.com/ies/previous-papers/objective-civil-engineering-i-2012) | [Paper II listing](https://iasexamportal.com/ies/previous-papers/objective-civil-engineering-ii-2012) | SECONDARY LISTINGS FOUND; individual PDFs not yet inspected |
+| 2013 | [Paper I listing](https://iasexamportal.com/ies/previous-papers/objective-civil-engineering-i-2013) | [Ambiguous Paper II listing](https://iasexamportal.com/ies/previous-papers/conventional-civil-engineering-ii-2013) | Paper I SECONDARY LISTING FOUND. Paper II page title says Conventional while body says "Conventional Objective Papers"; do not classify until PDF itself is checked |
+| 2014 | [Paper I listing](https://iasexamportal.com/ies/previous-papers/objective-civil-engineering-paper-i-2014) | [Paper II listing](https://iasexamportal.com/ies/previous-papers/objective-civil-engineering-paper-ii-2014) | SECONDARY LISTINGS FOUND; individual PDFs not yet inspected |
+| 2015 | [Combined Paper I and II index](https://iasexamportal.com/ies/previous-papers/2015-civil-engineering) | Same index lists Full Paper 2 | SECONDARY INDEX FOUND; individual PDFs not yet inspected |
+| 2016 | [Official UPSC Paper I](https://www.upsc.gov.in/sites/default/files/1%20CIVIL%20ENGG%20PAPER-1A.pdf) | [Official UPSC Paper II](https://www.upsc.gov.in/sites/default/files/2%20CIVIL%20ENGG%20PAPER-2B.pdf) | OFFICIAL UPSC ORIGINALS LOCATED; Paper I sample audit underway; Paper II cover verified |
+
+### Scope clarification from the historical scheme
+
+The official 2010 examination plan distinguishes the Objective Papers from the Conventional Papers. The objective component included:
+- General Ability Test (English and General Studies) — excluded from this portal.
+- Civil Engineering Paper I — included.
+- Civil Engineering Paper II — included.
+
+The plan lists the two Civil technical objective papers as separate two-hour, 200-mark papers. This is the correct historical basis for the portal's technical-only scope. It also confirms that the third objective paper (GAT) must not be mixed into the Civil question bank.
+
+Source: [IES 2010 notification plan of examination (secondary-hosted transcription)](https://iasexamportal.com/Notification/UPSC-IES-Notification-2010-Appendix-I-Plan-of-Examination). The original UPSC notification should be used as final authority if recovered.
+
+### Retrieval limitation
+
+The Education Observer attachment endpoint returned an unsupported download content type in the web inspection environment. The IAS Exam Portal pages expose download links, but the files have not all been retrieved and visually checked. Listing existence is not equivalent to paper verification. Until each PDF is inspected, status remains SECONDARY LISTING FOUND.
