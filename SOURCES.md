@@ -329,3 +329,28 @@ The searchable extraction of the official UPSC Paper I scan was compared with th
 | 6 | TEXT + OPTIONS MATCH | Wording and all four options agree. |
 
 Updated Paper I sample audit totals: 18 sampled; 13 complete text-and-option matches; 3 confirmed option mismatches (Q3, Q20, Q23); 2 held (Q1 numeral and Q21 diagram/options); 102 not sampled. These are sample-level checks only. No full-paper verification claim is made.
+
+
+## Paper-by-paper completion ledger — 18 November 2026
+
+A consolidated machine-readable status ledger is maintained at [`data/paper_audit_status.json`](data/paper_audit_status.json). It tracks all 14 Civil technical objective papers in scope (seven years × two papers), question-audit state and answer-key authentication separately.
+
+### Current verified position
+
+- 14 papers are in scope.
+- 2 official UPSC 2016 paper PDFs are located and their covers have been verified.
+- 2016 Paper I has an 18-question sample audit only: 13 third-party text-and-option matches, 3 confirmed third-party option mismatches and 2 held for numeral/diagram checks. 102 questions remain unsampled.
+- 2016 Paper II has no question-level audit yet.
+- 2010–2015 are represented by secondary source listings or files, not verified primary-source paper copies.
+- 0 question records have been admitted to the live bank; 0 answer keys are authenticated as official.
+
+### Source page checks added in this pass
+
+- 2012 Paper I listing identifies Engineering Services Exam 2012, Objective Papers, Civil Engineering Paper I and a zipped PDF, while stating "Courtesy: upsc.gov.in". The host's disclaimer states that IAS Exam Portal is not associated with UPSC. This is a secondary listing, not an official UPSC source.
+- 2013 Paper I listing identifies ESE 2013, Objective Papers, Civil Engineering Paper I and links a ZIP download. The 2013 Paper II listing was previously resolved to a similarly labelled objective-paper page. The files themselves remain uninspected.
+- 2015 index identifies Engineering Services Exam (IES), Civil Engineering Paper I and separate download links for Paper I and Paper II. The files remain uninspected.
+- The UPSC archive's 2016 entry explicitly separates Objective Papers from Conventional Papers and lists Civil Engineering Objective Paper I and II.
+
+Source pages: [UPSC archive](https://www.upsc.gov.in/examinations/previous-question-papers/archives), [2012 Paper I listing](https://iasexamportal.com/ies/previous-papers/objective-civil-engineering-i-2012), [2013 Paper I listing](https://iasexamportal.com/ies/previous-papers/objective-civil-engineering-i-2013), [2015 paper index](https://iasexamportal.com/ies/previous-papers/2015-civil-engineering).
+
+**Do not mark the repository's content complete based on these listing checks.** The source register is more complete, but question-level verification remains the gating work.
