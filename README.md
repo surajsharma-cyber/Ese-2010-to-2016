@@ -64,14 +64,14 @@ The application loads `data/questions.json`. Its format is specified in [DATA_FO
 
 - Preserve exact wording, options, numbering, diagrams, units and year/paper labels.
 - Preserve original paper order through `sequence_index`.
-- Keep question-transcription verification separate from answer-key verification.
-- Use only `answer_key.status = VERIFIED` for correctness scoring.
-- Do not import third-party content merely because its title or year looks plausible.
-- Keep unclear or disputed records out of the verified question bank.
+- Keep question transcription, provider provenance and answer-key status separate.
+- Third-party provider papers and their supplied keys may be used as the working source of record when the provider identifies the correct ESE year, Civil discipline, objective stage and paper number. Label them `PROVIDER_SOURCE_ACCEPTED` / `PROVIDER_KEY_IMPORTED`; never call them official UPSC material.
+- `INDEPENDENT_ANSWER_CHECKED` and `OFFICIAL_UPSC_MATCHED` are additional statuses, not prerequisites for using a clearly identified provider paper.
+- Quarantine missing, unreadable, mislabelled or internally inconsistent records.
 
 ## Current content status
 
-The application shell and core browser interactions are implemented. **The live question dataset is still empty.** The source register now links the official 2016 Civil objective papers and searchable/solved secondary copies. ExamElite lists 2015 ESE Civil Papers I and II (120 questions each); its 2010–2013 generic Civil entries are not identified as ESE and are not accepted as ESE papers. No questions have passed a page-by-page comparison against official originals, so the live question bank remains empty. See `data/paper_audit_status.json`. The remaining 102 Paper I questions and all 120 Paper II questions have not been audited. No answer key is currently authenticated as an official verified key. The portal therefore opens in a clear empty state rather than presenting fabricated content.
+The application shell and core browser interactions are implemented. **The live question dataset is still empty.** The source register now links the official 2016 Civil objective papers and searchable/solved secondary copies. ExamElite lists 2015 ESE Civil Papers I and II (120 questions each); its 2010–2013 generic Civil entries are not identified as ESE and are not accepted as ESE papers. Third-party source policy now permits a clearly identified provider paper and its supplied answer key to be used as the working source of record, with provenance labels rather than requiring an official UPSC match first. Mathematical Society lists the target years but its current download buttons resolve to a generic JPEG; My UPSC Syllabus lists 2010–2016 Drive folders but browser retrieval returned cache misses. See `docs/third-party-source-policy.md` and `data/source_inventory.json`. The portal therefore opens in a clear empty state rather than presenting fabricated content.
 
 See [SOURCES.md](SOURCES.md), [data/source_inventory.json](data/source_inventory.json) and [data/verification.json](data/verification.json) for the detailed record.
 
