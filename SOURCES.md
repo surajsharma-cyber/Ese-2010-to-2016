@@ -36,3 +36,24 @@ No questions have been transcribed from these PDFs yet. No answer keys have been
 - 2026-11-18: Located the 2016 ESE Objective Papers section and confirmed separate Civil Engineering Paper I and Paper II PDF entries.
 - 2026-11-18: Opened both official PDF links; each is a 24-page PDF.
 - 2026-11-18: Older-year exact paper links remain unresolved and are explicitly marked pending.
+
+
+## Third-party repositories and archives discovered (secondary leads)
+
+A search of public GitHub repositories using ESE/IES Civil Engineering PYQ and objective-paper queries did not identify a clearly relevant public GitHub repository containing this exact 2010–2016 question bank. The following non-GitHub archives are useful leads for locating or cross-checking source papers. They are not treated as authoritative sources.
+
+| Resource | Coverage indicated by the site | Use and limitations |
+|---|---|---|
+| [Education Observer — UPSC IES Civil Engineering papers](https://www.educationobserver.com/forum/showthread.php?tid=13928) | Forum attachments list Civil objective Paper I and II for 2010, 2011 and 2012, mixed with conventional papers; also 2009 | Potential PDF source for 2010–2012. Downloaded files must be compared against official UPSC papers before transcription is accepted. Forum users explicitly ask for missing answer keys, so do not rely on it for authoritative keys. |
+| [ExamElite — ESE & GATE CE previous-year hub](https://www.examelite.com/previous-year-papers/ese-gate-ce-previous-year-papers) | Page lists ESE/IES Civil P1 and P2, 120 questions each, for 2015 and 2016; it also lists Civil Engineering sets for 2010–2014 | Useful cross-check and potential question-index source. It mixes ESE technical papers with other Civil Engineering sets and includes separate non-technical papers. Select only the explicitly identified ESE/IES technical P1/P2 records; verify against official PDFs. Site access, reuse rights and question-level provenance need checking. |
+| [Mathematical Society — IES Civil previous papers](https://mathematicalsociety.org/ies-civil-engineering-previous-year-question-papers/) | Page lists Civil Prelims Paper I and II for 2010–2016, alongside conventional papers | Potential link directory, but the 2012 section appears to repeat 2010 labels for its prelims rows and download links are not exposed as readable URLs in the page extraction. Treat as unverified until each file is opened and checked. |
+| [UPSC IAS Exam Portal — 2010 objective papers](https://iasexamportal.com/Download/Indian-Engineering-Services-Exam-2010-Objective-Question-Paper-Civil-Engg) | Page advertises Civil objective Paper I and Paper II for 2010 | Secondary mirror; check the files against the official source. |
+
+### Reuse and integrity rule
+
+These sites can reduce discovery and comparison effort, but they do not replace official UPSC papers. Do not bulk-copy their question text or solutions into this project without checking source provenance, accuracy and applicable reuse/licensing terms. Third-party answer keys remain provisional until independently verified.
+
+### Search outcome
+
+- Public GitHub repository search: no clearly matching ESE Civil 2010–2016 question-bank repository identified in the searches performed on 2026-11-18.
+- Strongest practical leads for the requested years: Education Observer attachments for 2010–2012; ExamElite's explicitly labelled ESE/IES Civil P1/P2 entries for 2015–2016; official UPSC papers remain the final verification authority.
