@@ -10,6 +10,7 @@
     2016
   ],
   "scope": "technical_objective_prelims_only",
-  "status": "source_collection_pending",
-  "questions": []
+  "status": "partial_source_verification",
+  "questions": [],
+  "verification_ledger": "data/verification.json"
 }
