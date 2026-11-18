@@ -189,15 +189,16 @@
       "year": 2016,
       "paper_number": 1,
       "title": "ESE 2016 Civil Engineering Objective Paper 1",
-      "question_audit_status": "NOT_STARTED",
+      "question_audit_status": "SECONDARY_COPY_OPENED_OFFICIAL_COMPARISON_BLOCKED",
       "questions_expected": 120,
       "questions_sampled": 0,
       "verified_questions_admitted": 0,
-      "answer_key_status": "NOT_AUTHENTICATED",
+      "answer_key_status": "SECONDARY_KEY_ONLY_NOT_OFFICIAL",
       "blockers": [
-        "Official UPSC scan available in archive but this runtime cannot retrieve PDF bytes/pages",
-        "Secondary solved copy is available but has not been compared page-by-page against official original",
-        "No official UPSC answer key authenticated"
+        "UPSC original PDF page images return retrieval/cache errors in this environment",
+        "Secondary copy has not been compared page-by-page with the official original",
+        "Printed coaching answer key is not an official UPSC answer key",
+        "No question records admitted to the live bank"
       ],
       "question_sample_summary": {
         "searchable_secondary_scan_opened": true,
@@ -224,21 +225,28 @@
           "source_type": "secondary_solved_copy",
           "status": "cover_and_subject_distribution_confirmed"
         }
-      ]
+      ],
+      "secondary_copy_opened": true,
+      "secondary_evidence": {
+        "searchable_pdf_lines": 1080,
+        "ace_solved_pdf_pages": 27,
+        "declared_questions": 120
+      }
     },
     "2016_P2": {
       "year": 2016,
       "paper_number": 2,
       "title": "ESE 2016 Civil Engineering Objective Paper 2",
-      "question_audit_status": "NOT_STARTED",
+      "question_audit_status": "SECONDARY_COPY_OPENED_OFFICIAL_COMPARISON_BLOCKED",
       "questions_expected": 120,
       "questions_sampled": 0,
       "verified_questions_admitted": 0,
-      "answer_key_status": "NOT_AUTHENTICATED",
+      "answer_key_status": "SECONDARY_KEY_ONLY_NOT_OFFICIAL",
       "blockers": [
-        "Official UPSC scan available in archive but this runtime cannot retrieve PDF bytes/pages",
-        "Secondary solved copy is available but has not been compared page-by-page against official original",
-        "No official UPSC answer key authenticated"
+        "UPSC original PDF page images return retrieval/cache errors in this environment",
+        "Secondary copy has not been compared page-by-page with the official original",
+        "Printed coaching answer key is not an official UPSC answer key",
+        "No question records admitted to the live bank"
       ],
       "alternate_sources": [
         {
@@ -259,16 +267,21 @@
           "source_type": "secondary_catalog",
           "status": "official_source_link_confirmed"
         }
-      ]
+      ],
+      "secondary_copy_opened": true,
+      "secondary_evidence": {
+        "ace_solved_pdf_pages": 40
+      }
     }
   },
   "totals": {
     "papers_in_scope": 14,
     "official_primary_papers_located": 2,
     "official_archive_entries_confirmed": 2,
-    "papers_with_question_level_audit": 0,
+    "secondary_2016_paper_copies_opened": 2,
+    "papers_with_question_level_official_comparison": 0,
     "papers_with_full_question_audit": 0,
     "verified_question_records_admitted": 0,
-    "answer_keys_officially_authenticated": 0
+    "official_answer_keys_authenticated": 0
   }
 }
