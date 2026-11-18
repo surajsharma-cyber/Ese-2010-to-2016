@@ -78,3 +78,8 @@ See [SOURCES.md](SOURCES.md), [data/source_inventory.json](data/source_inventory
 ## Disclaimer
 
 Independent educational project; not affiliated with or endorsed by UPSC. Source papers and scans remain subject to their original rights and terms.
+
+
+## Third-party source progress
+
+The source inventory now contains direct Civil Technical Paper II links for 2010–2016 from Engineers Forum / IESect and other providers. The IES Academy ESE-2015 Civil Objective Paper II Set D key has been imported separately at `data/provider_answer_keys/2015_P2_set_D.json` with provider provenance; 115 answer choices and five provider dashes are recorded. This is not an official UPSC key and has not been independently checked. The question bank remains empty until the actual paper PDFs can be retrieved and inspected. Do not treat source links or an answer-key file as completed question transcription.
