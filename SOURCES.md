@@ -313,3 +313,19 @@ Additional file-level retrieval was attempted after locating the year-specific l
 - 2015 Civil Objective Paper I and Paper II download URLs are exposed by the year-specific listing, but the PDF retrieval returned a cache miss. The links are retained in `data/source_inventory.json`.
 
 This is an improvement in source recovery, not a verification claim. The 2013 and 2014 question contents remain unaudited; the 2015 files remain inaccessible in this retrieval pass.
+
+
+## 2016 Paper I audit extension — questions 1–6
+
+The searchable extraction of the official UPSC Paper I scan was compared with the first six ExamElite entries. The official scan text is available in the 2016 paper copy, with the primary UPSC PDF remaining the authority.
+
+| Question | Result | Note |
+|---|---|---|
+| 1 | HOLD — NUMERAL NEEDS VISUAL CONFIRMATION | ExamElite displays 37.5%; searchable official scan extraction reads 97.5%. The page image was not successfully rendered, so no final mismatch ruling is made. |
+| 2 | TEXT + OPTIONS MATCH | All listed statements and options agree. |
+| 3 | OPTION TEXT MISMATCH | ExamElite option B says "Hydrogen Sulphite"; official scan text extraction reads "Hydrogen Sulphide". |
+| 4 | TEXT + OPTIONS MATCH | Wording and all four options agree. |
+| 5 | TEXT + OPTIONS MATCH | Wording and all four options agree. |
+| 6 | TEXT + OPTIONS MATCH | Wording and all four options agree. |
+
+Updated Paper I sample audit totals: 18 sampled; 13 complete text-and-option matches; 3 confirmed option mismatches (Q3, Q20, Q23); 2 held (Q1 numeral and Q21 diagram/options); 102 not sampled. These are sample-level checks only. No full-paper verification claim is made.
