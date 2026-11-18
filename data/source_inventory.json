@@ -208,7 +208,7 @@
     "2016": {
       "paper1": {
         "url": "https://www.upsc.gov.in/sites/default/files/1%20CIVIL%20ENGG%20PAPER-1A.pdf",
-        "status": "OFFICIAL_SOURCE_CONFIRMED_SEARCHABLE_MIRROR_FOUND_AUDIT_PENDING",
+        "status": "SECONDARY_FULL_TEXT_AND_SOLVED_COPY_OPENED_OFFICIAL_PAGE_MATCH_PENDING",
         "cover": "VERIFIED",
         "sample_audit": "PARTIAL",
         "title": "ESE 2016 Civil Engineering Objective Paper I",
@@ -233,11 +233,20 @@
             "source_type": "secondary_solved_copy",
             "status": "cover_and_subject_distribution_confirmed"
           }
-        ]
+        ],
+        "secondary_audit": {
+          "searchable_pdf": "https://www.pyqonline.com/exam/upsc/papers/ese/ese-objective-civil-engineering-paper-1-2016.pdf",
+          "ace_solved_pdf": "https://www.aceenggacademy.com/wp-content/uploads/2016/05/Civil_Paper_1_Objective.pdf",
+          "extracted_searchable_text_lines": 1080,
+          "ace_pdf_pages": 27,
+          "question_count_declared": 120,
+          "page_by_page_official_comparison": "BLOCKED_OFFICIAL_PDF_PAGE_IMAGE_RETRIEVAL_FAILURE",
+          "answer_key": "SECONDARY_PRINTED_KEY_ONLY_NOT_OFFICIAL"
+        }
       },
       "paper2": {
         "url": "https://www.upsc.gov.in/sites/default/files/2%20CIVIL%20ENGG%20PAPER-2B.pdf",
-        "status": "OFFICIAL_SOURCE_CONFIRMED_SECONDARY_SOLVED_COPY_FOUND_AUDIT_PENDING",
+        "status": "SECONDARY_SOLVED_COPY_OPENED_OFFICIAL_PAGE_MATCH_PENDING",
         "cover": "VERIFIED",
         "sample_audit": "PENDING",
         "title": "ESE 2016 Civil Engineering Objective Paper II",
@@ -262,7 +271,13 @@
             "source_type": "secondary_catalog",
             "status": "official_source_link_confirmed"
           }
-        ]
+        ],
+        "secondary_audit": {
+          "ace_solved_pdf": "https://www.aceenggacademy.com/wp-content/uploads/2016/06/Civil_Paper_2_Objective-1.pdf",
+          "ace_pdf_pages": 40,
+          "page_by_page_official_comparison": "BLOCKED_OFFICIAL_PDF_PAGE_IMAGE_RETRIEVAL_FAILURE",
+          "answer_key": "SECONDARY_PRINTED_KEY_ONLY_NOT_OFFICIAL"
+        }
       }
     }
   },
