@@ -1,68 +1,80 @@
 # ESE Civil Engineering Technical Prelims PYQ Portal (2010–2016)
 
-A static, browser-based practice portal for UPSC Engineering Services Examination (ESE) Civil Engineering **Technical Prelims objective-paper** questions from 2010 through 2016.
+A dependency-free static web application for practising UPSC Engineering Services Examination Civil Engineering technical objective papers from 2010–2016.
 
-## Strict scope
+## Included scope
 
-Included:
-- Civil Engineering technical objective/preliminary paper questions.
-- Examination years 2010, 2011, 2012, 2013, 2014, 2015 and 2016.
+- Civil Engineering technical objective Paper I and Paper II only.
+- Years 2010–2016.
 
-Excluded:
+## Excluded
+
 - Conventional/descriptive papers.
-- General Studies and non-technical papers.
-- Papers for Mechanical, Electrical, Electronics and other disciplines.
-- Questions that cannot be attributed to a source paper and year with adequate confidence.
-
-## Source-integrity policy
-
-1. Preserve question wording, options, numbering, diagrams, units, symbols and paper/year labels.
-2. Do not invent questions, options, diagrams, years or answer keys.
-3. Record the source document and page/question reference for every imported question.
-4. Record answer-key provenance separately from the question source.
-5. Mark answers as `VERIFIED`, `PROVISIONAL`, `DISPUTED` or `UNVERIFIED`; never present an unverified key as authoritative.
-6. Preserve original paper order. Any topic classification is additional metadata and must not reorder the source sequence by default.
-7. If a scan is unclear or a transcription cannot be confirmed, hold the record from publication until resolved.
-
-## Current data status
-
-The initial repository contains the portal shell and an empty data file. No question records or answer keys have been imported. This is deliberate: source content must be verified before publication.
+- General Ability Test, General Studies and other non-technical papers.
+- GATE questions and all other engineering disciplines.
+- Unattributed or unverifiable questions.
 
 ## Run locally
 
-Open `index.html` in a modern browser. No build process or server is required for the initial static shell.
+Because the application loads JSON with `fetch()`, serve the repository over HTTP rather than opening `index.html` as a `file://` URL.
 
-## GitHub Pages
+For example, with Python installed:
+
+```bash
+python -m http.server 8000
+```
+
+Then open `http://localhost:8000`.
+
+No build step, package manager or third-party JavaScript dependency is required.
+
+## Features
+
+- Year, paper, subject and text filters.
+- Sequential practice with question navigation.
+- Answer reveal only after the user selects an option.
+- Timed test mode (60 seconds per question, auto-submit).
+- Bookmarks stored in the current browser.
+- Session history and performance summary stored in the current browser.
+- Answer-key-aware scoring: records with unverified answer keys are not marked correct or incorrect.
+- Source inventory and verification-ledger links.
+- Responsive layout for desktop and mobile.
+
+Browser bookmarks and performance history are local to that browser/device. They are not synchronised to GitHub or another device.
+
+## GitHub Pages deployment
+
+The repository contains a root-level `index.html` and `.nojekyll`. To publish:
 
 1. Open repository **Settings → Pages**.
 2. Under **Build and deployment**, choose **Deploy from a branch**.
-3. Select branch `main` and folder `/ (root)`.
-4. Save, then wait for GitHub Pages to complete deployment.
-5. The site is not considered published until the Pages deployment reports success.
+3. Select `main` and `/(root)`, then Save.
+4. Wait for the Pages deployment to complete. GitHub notes that publication can take several minutes.
+5. Use the **Visit site** link in Settings → Pages to confirm the live address.
 
-## Data schema
+The expected project-site URL is:
 
-See `data/questions.json`. Each future question record should include at minimum:
-- Stable ID.
-- Year and paper identifier.
-- Original question number and sequence index.
-- Exact question text and options.
-- Diagram/media reference, if any.
-- Subject/topic tags (secondary metadata).
-- Source citation (document title, URL or archival reference, page).
-- Answer and answer-key source, if available.
-- Verification status and verification notes.
+`https://surajsharma-cyber.github.io/Ese-2010-to-2016/`
+
+This URL must not be treated as live until GitHub Pages reports a successful deployment.
+
+## Question data and source integrity
+
+The application loads `data/questions.json`. Its format is specified in [DATA_FORMAT.md](DATA_FORMAT.md) and [data/questions.schema.json](data/questions.schema.json).
+
+- Preserve exact wording, options, numbering, diagrams, units and year/paper labels.
+- Preserve original paper order through `sequence_index`.
+- Keep question-transcription verification separate from answer-key verification.
+- Use only `answer_key.status = VERIFIED` for correctness scoring.
+- Do not import third-party content merely because its title or year looks plausible.
+- Keep unclear or disputed records out of the verified question bank.
+
+## Current content status
+
+The application shell and core browser interactions are implemented. **The live question dataset is still empty.** The source audit has sampled 18 questions from 2016 Civil Paper I: 13 complete text-and-option matches, 3 confirmed third-party option mismatches, and 2 held for numeral/diagram checks. The remaining 102 Paper I questions and all 120 Paper II questions have not been audited. No answer key is currently authenticated as an official verified key. The portal therefore opens in a clear empty state rather than presenting fabricated content.
+
+See [SOURCES.md](SOURCES.md), [data/source_inventory.json](data/source_inventory.json) and [data/verification.json](data/verification.json) for the detailed record.
 
 ## Disclaimer
 
-This is an independent educational project and is not affiliated with or endorsed by UPSC.
-
-## Source inventory
-
-See [SOURCES.md](SOURCES.md) for the official UPSC source register, confirmed 2016 Civil Engineering Objective Paper I and II links, and the pending retrieval status for 2010–2015.
-
-## Current verification progress
-
-The portal displays direct official UPSC links for the 2016 Civil Engineering objective papers and links to `SOURCES.md` and `data/verification.json`. A sample comparison of 2016 Paper I questions 7–12 and 19–24 found 9 complete text-and-option matches, 2 third-party option mismatches, and 1 question requiring diagram/option verification. This is not a full-paper audit. The 2016 answer-key scans found on a secondary host remain provisional; no official key has been authenticated. No questions have been admitted to the practice bank yet.
-
-The year-wise candidate source links are also maintained in [`data/source_inventory.json`](data/source_inventory.json). Secondary listing pages are not treated as verified PDFs until the actual files are inspected against primary sources.
+Independent educational project; not affiliated with or endorsed by UPSC. Source papers and scans remain subject to their original rights and terms.
