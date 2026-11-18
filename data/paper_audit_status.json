@@ -225,7 +225,11 @@
           "source_type": "third_party_direct_file_link",
           "status": "provider_page_identifies_year_and_objective_paper_ii;_drive_file_cache_miss_in_this_runtime"
         }
-      ]
+      ],
+      "provider_key_file": "data/provider_answer_keys/2015_P2_set_D.json",
+      "provider_key_entries": 120,
+      "provider_key_answered": 115,
+      "provider_key_dash_entries": 5
     },
     "2016_P2": {
       "year": 2016,
