@@ -189,25 +189,42 @@
       "year": 2016,
       "paper_number": 1,
       "title": "ESE 2016 Civil Engineering Objective Paper 1",
-      "question_audit_status": "PARTIAL_SAMPLE_ONLY",
+      "question_audit_status": "NOT_STARTED",
       "questions_expected": 120,
-      "questions_sampled": 18,
+      "questions_sampled": 0,
       "verified_questions_admitted": 0,
       "answer_key_status": "NOT_AUTHENTICATED",
       "blockers": [
-        "102 questions not sampled",
-        "Q1 numeral requires visual confirmation",
-        "Q3 third-party option mismatch",
-        "Q20 and Q23 third-party option mismatches",
-        "Q21 diagram/options pending",
-        "No official answer key authenticated"
+        "Official UPSC scan available in archive but this runtime cannot retrieve PDF bytes/pages",
+        "Secondary solved copy is available but has not been compared page-by-page against official original",
+        "No official UPSC answer key authenticated"
       ],
       "question_sample_summary": {
-        "complete_text_and_option_matches": 13,
-        "confirmed_third_party_option_mismatches": 3,
-        "held_for_numeral_or_diagram_check": 2,
-        "not_sampled": 102
-      }
+        "searchable_secondary_scan_opened": true,
+        "questions_declared_by_paper": 120,
+        "question_level_audit_against_official_original": 0,
+        "previous_18_item_sample_is_not_retained_as_verified_evidence": "It was only a partial comparison to a third-party transcription; it is not an official-paper verification and has not been admitted."
+      },
+      "alternate_sources": [
+        {
+          "title": "UPSC official original objective paper",
+          "url": "https://www.upsc.gov.in/sites/default/files/1%20CIVIL%20ENGG%20PAPER-1A.pdf",
+          "source_type": "official_primary",
+          "status": "official_archive_listing_confirmed"
+        },
+        {
+          "title": "PYQOnline searchable scan",
+          "url": "https://www.pyqonline.com/exam/upsc/papers/ese/ese-objective-civil-engineering-paper-1-2016.pdf",
+          "source_type": "secondary_scan",
+          "status": "searchable_pdf_opened_120_questions"
+        },
+        {
+          "title": "ACE Engineering Academy solved-paper scan",
+          "url": "https://www.aceenggacademy.com/wp-content/uploads/2016/05/Civil_Paper_1_Objective.pdf",
+          "source_type": "secondary_solved_copy",
+          "status": "cover_and_subject_distribution_confirmed"
+        }
+      ]
     },
     "2016_P2": {
       "year": 2016,
@@ -219,17 +236,37 @@
       "verified_questions_admitted": 0,
       "answer_key_status": "NOT_AUTHENTICATED",
       "blockers": [
-        "Question paper must be retrieved and inspected page by page",
-        "Official paper identity and exact question transcription not yet verified",
-        "Answer key not authenticated"
+        "Official UPSC scan available in archive but this runtime cannot retrieve PDF bytes/pages",
+        "Secondary solved copy is available but has not been compared page-by-page against official original",
+        "No official UPSC answer key authenticated"
+      ],
+      "alternate_sources": [
+        {
+          "title": "UPSC official original objective paper",
+          "url": "https://www.upsc.gov.in/sites/default/files/2%20CIVIL%20ENGG%20PAPER-2B.pdf",
+          "source_type": "official_primary",
+          "status": "official_archive_listing_confirmed"
+        },
+        {
+          "title": "ACE Engineering Academy solved-paper scan",
+          "url": "https://www.aceenggacademy.com/wp-content/uploads/2016/06/Civil_Paper_2_Objective-1.pdf",
+          "source_type": "secondary_solved_copy",
+          "status": "cover_and_subject_distribution_confirmed"
+        },
+        {
+          "title": "PYQSathi paper record linking UPSC original",
+          "url": "https://pyqsathi.com/papers/upsc-engineering-services-prelims-2016-civil-engineering-paper-ii-objective/",
+          "source_type": "secondary_catalog",
+          "status": "official_source_link_confirmed"
+        }
       ]
     }
   },
   "totals": {
     "papers_in_scope": 14,
     "official_primary_papers_located": 2,
-    "official_covers_verified": 2,
-    "papers_with_partial_question_audit": 1,
+    "official_archive_entries_confirmed": 2,
+    "papers_with_question_level_audit": 0,
     "papers_with_full_question_audit": 0,
     "verified_question_records_admitted": 0,
     "answer_keys_officially_authenticated": 0
