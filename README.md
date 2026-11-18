@@ -64,3 +64,5 @@ See [SOURCES.md](SOURCES.md) for the official UPSC source register, confirmed 20
 ## Current verification progress
 
 The portal displays direct official UPSC links for the 2016 Civil Engineering objective papers and links to `SOURCES.md` and `data/verification.json`. A sample comparison of 2016 Paper I questions 7–12 and 19–24 found 9 complete text-and-option matches, 2 third-party option mismatches, and 1 question requiring diagram/option verification. This is not a full-paper audit. The 2016 answer-key scans found on a secondary host remain provisional; no official key has been authenticated. No questions have been admitted to the practice bank yet.
+
+The year-wise candidate source links are also maintained in [`data/source_inventory.json`](data/source_inventory.json). Secondary listing pages are not treated as verified PDFs until the actual files are inspected against primary sources.
