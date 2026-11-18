@@ -1,0 +1,190 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://surajsharma-cyber.github.io/Ese-2010-to-2016/data/questions.schema.json",
+  "title": "ESE Civil Technical Prelims question bank",
+  "type": "object",
+  "required": [
+    "project",
+    "years",
+    "scope",
+    "status",
+    "questions"
+  ],
+  "properties": {
+    "project": {
+      "const": "ESE Civil Engineering Technical Prelims PYQ"
+    },
+    "years": {
+      "type": "array",
+      "items": {
+        "type": "integer",
+        "enum": [
+          2010,
+          2011,
+          2012,
+          2013,
+          2014,
+          2015,
+          2016
+        ]
+      },
+      "uniqueItems": true
+    },
+    "scope": {
+      "const": "technical_objective_prelims_only"
+    },
+    "status": {
+      "type": "string"
+    },
+    "verification_ledger": {
+      "type": "string"
+    },
+    "questions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "year",
+          "paper_number",
+          "question_number",
+          "sequence_index",
+          "question_text",
+          "options",
+          "verification_status",
+          "source"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "year": {
+            "type": "integer",
+            "minimum": 2010,
+            "maximum": 2016
+          },
+          "paper_number": {
+            "type": "integer",
+            "enum": [
+              1,
+              2
+            ]
+          },
+          "paper": {
+            "type": "string"
+          },
+          "question_number": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "sequence_index": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "question_text": {
+            "type": "string",
+            "minLength": 1
+          },
+          "options": {
+            "type": "array",
+            "minItems": 2,
+            "items": {
+              "type": "object",
+              "required": [
+                "key",
+                "text"
+              ],
+              "properties": {
+                "key": {
+                  "type": "string"
+                },
+                "text": {
+                  "type": "string"
+                }
+              },
+              "additionalProperties": false
+            }
+          },
+          "diagram_url": {
+            "type": "string"
+          },
+          "subject": {
+            "type": "string"
+          },
+          "topic": {
+            "type": "string"
+          },
+          "verification_status": {
+            "enum": [
+              "VERIFIED",
+              "PROVISIONAL",
+              "DISPUTED",
+              "UNVERIFIED"
+            ]
+          },
+          "answer_key": {
+            "type": "object",
+            "properties": {
+              "answer": {
+                "type": "string"
+              },
+              "status": {
+                "enum": [
+                  "VERIFIED",
+                  "PROVISIONAL",
+                  "DISPUTED",
+                  "UNVERIFIED"
+                ]
+              },
+              "source": {
+                "type": "string"
+              },
+              "notes": {
+                "type": "string"
+              }
+            },
+            "additionalProperties": false
+          },
+          "source": {
+            "type": "object",
+            "required": [
+              "title",
+              "url",
+              "page"
+            ],
+            "properties": {
+              "title": {
+                "type": "string"
+              },
+              "url": {
+                "type": "string",
+                "format": "uri"
+              },
+              "page": {
+                "type": [
+                  "string",
+                  "integer"
+                ]
+              },
+              "notes": {
+                "type": "string"
+              }
+            },
+            "additionalProperties": false
+          },
+          "marks_positive": {
+            "type": "number",
+            "minimum": 0
+          },
+          "marks_negative": {
+            "type": "number",
+            "minimum": 0
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}
