@@ -384,3 +384,14 @@ ExamElite's public catalogue identifies ESE Civil Engineering Paper I and II ent
 ## Source access audit
 
 A detailed execution report for the opened 2016 secondary PDFs, official-source retrieval failures, answer-key status and copyright-safe admission policy is available in [docs/source-access-audit.md](docs/source-access-audit.md).
+
+
+## Further third-party retrieval leads — 18 November 2026
+
+- PYQSathi has separate 2014 and 2015 ESE cycle pages listing Civil Engineering Objective Papers I and II and identifying their source as UPSC. The 2014 and 2015 catalogue pages are linked in the machine-readable source inventory.
+- IES Academy hosts a 2015 Civil Engineering Objective Paper II answer-key PDF. Its extracted content contains answer choices for questions 1–120 and identifies itself as the ESE-2015 solution/key, Set D. Treat it as an IES Academy provider key, not an official UPSC key.
+- Education Observer's ESE 2015 thread lists attachments for both Civil objective Paper I and Paper II question-paper PDFs. The attachment files still need retrieval.
+- PYQOnline hosts a searchable 2016 Civil Paper I scan with 120 questions.
+- Mathematical Society's ESE Civil page lists the required years and both prelims papers, but its current download-image links resolve to a generic JPEG in this browser, so those buttons do not currently provide retrievable PDFs.
+
+This pass adds the sources and provenance to the repository. It does not claim that the 2014/2015/2016 papers have been transcribed or that the 2015 provider key has been imported.
