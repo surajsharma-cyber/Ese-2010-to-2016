@@ -1,7 +1,7 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://surajsharma-cyber.github.io/Ese-2010-to-2016/data/questions.schema.json",
-  "title": "ESE Civil Technical Prelims question bank",
+  "title": "ESE Civil Engineering Technical Prelims Paper II question bank",
   "type": "object",
   "required": [
     "project",
@@ -31,7 +31,7 @@
       "uniqueItems": true
     },
     "scope": {
-      "const": "technical_objective_prelims_only"
+      "const": "civil_technical_objective_paper_ii_only"
     },
     "status": {
       "type": "string"
@@ -67,9 +67,9 @@
           "paper_number": {
             "type": "integer",
             "enum": [
-              1,
               2
-            ]
+            ],
+            "const": 2
           },
           "paper": {
             "type": "string"
