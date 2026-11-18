@@ -4,11 +4,11 @@ Updated: 18 November 2026
 
 ## Scope
 
-Only UPSC ESE Civil Engineering technical objective/prelims papers for 2010–2016 are in scope: Paper I and Paper II. Exclude General Studies/Engineering Aptitude, conventional/descriptive papers, GATE and every other discipline.
+Only UPSC ESE Civil Engineering technical objective/prelims papers for 2010–2016 are in scope: Paper II only. Exclude General Studies/Engineering Aptitude, conventional/descriptive papers, GATE and every other discipline.
 
 ## User-authorized source policy
 
-The project may use a reputable third-party provider's identified ESE Civil question-paper PDF and the answer key printed or supplied with that same paper as the working source of record. It is not necessary to re-authenticate every item against UPSC if the provider clearly identifies the exam, year, Civil discipline, objective/prelims stage and paper number.
+The project may use a reputable third-party provider's identified ESE Civil question-paper PDF and the answer key printed or supplied with that same paper as the working source of record. It is not necessary to re-authenticate every item against UPSC if the provider clearly identifies the exam, year, Civil discipline, objective/prelims stage and Civil Engineering Paper II.
 
 Provenance must remain visible. Store separate statuses:
 - `PROVIDER_SOURCE_ACCEPTED`: provider's own paper/key is being relied upon as supplied.
@@ -32,6 +32,11 @@ Do not relabel a provider key as an official UPSC key. If provider source has no
 
 ## Retrieval and admission rule
 
-A third-party source is eligible once its actual PDF/file is retrieved and its cover/header or provider metadata identifies year, ESE/IES, Civil Engineering, objective/prelims, and Paper I or II. Then inspect every page, transcribe all question text/options/figures and printed numbering, preserve order, and record page provenance. Use the answer key supplied by that provider as a provider key. If a page is missing, unreadable, mislabelled or internally inconsistent, quarantine only the affected records.
+A third-party source is eligible once its actual PDF/file is retrieved and its cover/header or provider metadata identifies year, ESE/IES, Civil Engineering, objective/prelims, and Paper II. Then inspect every page, transcribe all question text/options/figures and printed numbering, preserve order, and record page provenance. Use the answer key supplied by that provider as a provider key. If a page is missing, unreadable, mislabelled or internally inconsistent, quarantine only the affected records.
 
 The Mathematical Society page is not yet a usable paper source because its download buttons currently resolve to a generic JPEG. The My UPSC Syllabus year folders are promising but were not retrievable through the browser cache. No question data should be fabricated from catalogue rows.
+
+
+## Explicit exclusion
+
+Civil Engineering Paper I and the separate General Ability Test (General English and General Studies) are out of scope. The modern Stage-I General Studies and Engineering Aptitude Paper I is also out of scope. The project admits only Civil Engineering technical objective Paper II for each year 2010–2016.
