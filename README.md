@@ -4,13 +4,13 @@ A dependency-free static web application for practising UPSC Engineering Service
 
 ## Included scope
 
-- Civil Engineering technical objective Paper I and Paper II only.
+- Civil Engineering technical objective Paper II only.
 - Years 2010–2016.
 
 ## Excluded
 
 - Conventional/descriptive papers.
-- General Ability Test, General Studies and other non-technical papers.
+- General Ability Test / General Studies, Paper I and other non-technical papers.
 - GATE questions and all other engineering disciplines.
 - Unattributed or unverifiable questions.
 
@@ -71,7 +71,7 @@ The application loads `data/questions.json`. Its format is specified in [DATA_FO
 
 ## Current content status
 
-The application shell and core browser interactions are implemented. **The live question dataset is still empty.** The source register now links the official 2016 Civil objective papers and searchable/solved secondary copies. ExamElite lists 2015 ESE Civil Papers I and II (120 questions each); its 2010–2013 generic Civil entries are not identified as ESE and are not accepted as ESE papers. Third-party source policy now permits a clearly identified provider paper and its supplied answer key to be used as the working source of record, with provenance labels rather than requiring an official UPSC match first. Mathematical Society lists the target years but its current download buttons resolve to a generic JPEG; My UPSC Syllabus lists 2010–2016 Drive folders but browser retrieval returned cache misses. See `docs/third-party-source-policy.md` and `data/source_inventory.json`. The portal therefore opens in a clear empty state rather than presenting fabricated content.
+The application shell and core browser interactions are implemented for Paper II only. **The live question dataset is still empty.** The source register is restricted to Civil Engineering technical objective Paper II. ExamElite lists 2015 ESE Civil Papers I and II (120 questions each); its 2010–2013 generic Civil entries are not identified as ESE and are not accepted as ESE papers. Third-party source policy now permits a clearly identified provider paper and its supplied answer key to be used as the working source of record, with provenance labels rather than requiring an official UPSC match first. Mathematical Society lists the target years but its current download buttons resolve to a generic JPEG; My UPSC Syllabus lists 2010–2016 Drive folders but browser retrieval returned cache misses. See `docs/third-party-source-policy.md` and `data/source_inventory.json`. The portal therefore opens in a clear empty state rather than presenting fabricated content.
 
 See [SOURCES.md](SOURCES.md), [data/source_inventory.json](data/source_inventory.json) and [data/verification.json](data/verification.json) for the detailed record.
 
