@@ -14,8 +14,9 @@
       "total_questions": 120,
       "question_level_audit": {
         "sampled": 12,
-        "text_and_options_match": 11,
-        "diagram_pending": 1,
+        "complete_text_and_options_match": 9,
+        "confirmed_option_mismatches": 2,
+        "options_or_diagram_pending": 1,
         "not_sampled": 108
       },
       "answer_key": "NOT_VERIFIED"
@@ -133,10 +134,10 @@
       "official_pdf_page_index": 3,
       "official_printed_page": 5,
       "secondary_source": "ExamElite ESE (IES) Civil Engineering P1 2016",
-      "transcription_status": "TEXT_AND_OPTIONS_MATCH",
+      "transcription_status": "OPTION_MISMATCH",
       "diagram_status": "NOT_APPLICABLE",
       "answer_key_status": "NOT_VERIFIED",
-      "publication_status": "AUDIT_ONLY"
+      "publication_status": "REJECT_THIRD_PARTY_TRANSCRIPTION"
     },
     {
       "id": "ESE-2016-CE-P1-Q22",
@@ -159,10 +160,10 @@
       "official_pdf_page_index": 3,
       "official_printed_page": 5,
       "secondary_source": "ExamElite ESE (IES) Civil Engineering P1 2016",
-      "transcription_status": "TEXT_AND_OPTIONS_MATCH",
+      "transcription_status": "OPTION_MISMATCH",
       "diagram_status": "NOT_APPLICABLE",
       "answer_key_status": "NOT_VERIFIED",
-      "publication_status": "AUDIT_ONLY"
+      "publication_status": "REJECT_THIRD_PARTY_TRANSCRIPTION"
     },
     {
       "id": "ESE-2016-CE-P1-Q24",
@@ -185,14 +186,14 @@
       "official_pdf_page_index": 3,
       "official_printed_page": 5,
       "secondary_source": "ExamElite ESE (IES) Civil Engineering P1 2016",
-      "transcription_status": "TEXT_AND_OPTIONS_MATCH",
+      "transcription_status": "TEXT_MATCH_OPTIONS_NOT_VERIFIED",
       "diagram_status": "PENDING_DIRECT_GRAPHIC_COMPARISON",
       "answer_key_status": "NOT_VERIFIED",
-      "publication_status": "HOLD_DIAGRAM"
+      "publication_status": "HOLD"
     }
   ],
   "admission_summary": {
     "admitted_question_records": 0,
-    "reason": "This file is an audit ledger, not a question bank. The sampled question wording is not duplicated here. A complete source transcription and diagram asset must be cleared before publication."
+    "reason": "Audit ledger only. Q20 and Q23 third-party option mismatches are recorded; Q21 options/diagram remain pending. No question text is duplicated into the live question bank."
   }
 }
