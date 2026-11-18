@@ -1,7 +1,7 @@
 {
   "project": "ESE Civil Engineering Technical Prelims PYQ",
   "audit_date": "2026-11-18",
-  "policy": "A question is admitted to the verified question bank only after its wording, options, numbering, year, paper and all required diagrams are checked against the official original. Answer-key verification is a separate status.",
+  "policy": "A clearly identified third-party provider's ESE Civil technical objective paper may be used as the working source of record without mandatory official UPSC comparison. Preserve provider attribution. Track transcription checking, provider-key import, independent answer checking and official UPSC matching as separate statuses. Never label a third-party answer key as official UPSC.",
   "sources": {
     "official_p1": "https://www.upsc.gov.in/sites/default/files/1%20CIVIL%20ENGG%20PAPER-1A.pdf",
     "official_p2": "https://www.upsc.gov.in/sites/default/files/2%20CIVIL%20ENGG%20PAPER-2B.pdf",
@@ -305,5 +305,19 @@
   "audit_notes": [
     "Q1 third-party transcription gives 37.5% while searchable official PDF text extraction reads 97.5%; the scan page image could not be rendered in this pass, so the numeral is held for visual confirmation rather than called a confirmed mismatch.",
     "Q3 third-party transcription lists option B as Hydrogen Sulphite while official PDF text extraction reads Hydrogen Sulphide; recorded as an option-text mismatch."
-  ]
+  ],
+  "provider_source_policy": {
+    "accepted_source_status": "PROVIDER_SOURCE_ACCEPTED",
+    "accepted_key_status": "PROVIDER_KEY_IMPORTED",
+    "optional_independent_status": "INDEPENDENT_ANSWER_CHECKED",
+    "optional_official_match_status": "OFFICIAL_UPSC_MATCHED",
+    "required_identity_fields": [
+      "ESE/IES",
+      "year",
+      "Civil Engineering",
+      "objective/prelims",
+      "Paper I or Paper II"
+    ],
+    "do_not_block_on_official_match": true
+  }
 }
