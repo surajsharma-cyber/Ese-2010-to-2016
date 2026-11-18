@@ -4,61 +4,125 @@
     "2010": {
       "paper1": {
         "url": "https://iasexamportal.com/Download/Indian-Engineering-Services-Exam-2010-Objective-Question-Paper-Civil-Engg",
-        "status": "INDEX_ONLY_NOT_DOWNLOADED",
+        "status": "UNVERIFIED_SECONDARY_LISTING_ESE_IDENTITY_NOT_ESTABLISHED",
         "title": "ESE 2010 Civil Engineering Objective Paper I",
-        "source_type": "secondary_index"
+        "source_type": "secondary_index",
+        "alternate_sources": [
+          {
+            "title": "ExamElite Civil Engineering 2010 catalogue entry",
+            "url": "https://examelite.com/previous-year-papers/ese-gate-ce-previous-year-papers",
+            "source_type": "secondary_catalog",
+            "status": "generic_CE_entry_only_not_identified_as_ESE"
+          }
+        ]
       },
       "paper2": {
         "url": "https://iasexamportal.com/Download/Indian-Engineering-Services-Exam-2010-Objective-Question-Paper-Civil-Engg",
-        "status": "INDEX_ONLY_NOT_DOWNLOADED",
+        "status": "UNVERIFIED_SECONDARY_LISTING_ESE_IDENTITY_NOT_ESTABLISHED",
         "title": "ESE 2010 Civil Engineering Objective Paper II",
-        "source_type": "secondary_index"
+        "source_type": "secondary_index",
+        "alternate_sources": [
+          {
+            "title": "ExamElite Civil Engineering 2010 catalogue entry",
+            "url": "https://examelite.com/previous-year-papers/ese-gate-ce-previous-year-papers",
+            "source_type": "secondary_catalog",
+            "status": "generic_CE_entry_only_not_identified_as_ESE"
+          }
+        ]
       }
     },
     "2011": {
       "paper1": {
         "url": "https://iasexamportal.com/engineering-services/download/exam-paper-2011-objective-civil-engineering-i",
-        "status": "LISTING_ONLY_NOT_DOWNLOADED",
+        "status": "UNVERIFIED_SECONDARY_LISTING_ESE_IDENTITY_NOT_ESTABLISHED",
         "title": "ESE 2011 Civil Engineering Objective Paper I",
-        "source_type": "secondary_listing"
+        "source_type": "secondary_listing",
+        "alternate_sources": [
+          {
+            "title": "ExamElite Civil Engineering 2011 catalogue entry",
+            "url": "https://examelite.com/previous-year-papers/ese-gate-ce-previous-year-papers",
+            "source_type": "secondary_catalog",
+            "status": "generic_CE_entry_only_not_identified_as_ESE"
+          }
+        ]
       },
       "paper2": {
         "url": "https://iasexamportal.com/engineering-services/download/exam-paper-2011-objective-civil-engineering-ii",
-        "status": "LISTING_ONLY_NOT_DOWNLOADED",
+        "status": "UNVERIFIED_SECONDARY_LISTING_ESE_IDENTITY_NOT_ESTABLISHED",
         "title": "ESE 2011 Civil Engineering Objective Paper II",
-        "source_type": "secondary_listing"
+        "source_type": "secondary_listing",
+        "alternate_sources": [
+          {
+            "title": "ExamElite Civil Engineering 2011 catalogue entry",
+            "url": "https://examelite.com/previous-year-papers/ese-gate-ce-previous-year-papers",
+            "source_type": "secondary_catalog",
+            "status": "generic_CE_entry_only_not_identified_as_ESE"
+          }
+        ]
       }
     },
     "2012": {
       "paper1": {
         "url": "https://iasexamportal.com/ies/previous-papers/objective-civil-engineering-i-2012",
-        "status": "ZIP_LISTING_CONFIRMED_NOT_INSPECTED",
+        "status": "UNVERIFIED_SECONDARY_LISTING_ESE_IDENTITY_NOT_ESTABLISHED",
         "title": "ESE 2012 Civil Engineering Objective Paper I",
-        "source_type": "secondary_listing"
+        "source_type": "secondary_listing",
+        "alternate_sources": [
+          {
+            "title": "ExamElite Civil Engineering 2012 catalogue entry",
+            "url": "https://examelite.com/previous-year-papers/ese-gate-ce-previous-year-papers",
+            "source_type": "secondary_catalog",
+            "status": "generic_CE_entry_only_not_identified_as_ESE"
+          }
+        ]
       },
       "paper2": {
         "url": "https://iasexamportal.com/ies/previous-papers/objective-civil-engineering-ii-2012",
-        "status": "LISTING_ONLY_NOT_DOWNLOADED",
+        "status": "UNVERIFIED_SECONDARY_LISTING_ESE_IDENTITY_NOT_ESTABLISHED",
         "title": "ESE 2012 Civil Engineering Objective Paper II",
-        "source_type": "secondary_listing"
+        "source_type": "secondary_listing",
+        "alternate_sources": [
+          {
+            "title": "ExamElite Civil Engineering 2012 catalogue entry",
+            "url": "https://examelite.com/previous-year-papers/ese-gate-ce-previous-year-papers",
+            "source_type": "secondary_catalog",
+            "status": "generic_CE_entry_only_not_identified_as_ESE"
+          }
+        ]
       }
     },
     "2013": {
       "paper1": {
         "url": "https://iasexamportal.com/ies/previous-papers/objective-civil-engineering-i-2013",
         "listing": "https://iasexamportal.com/ies/previous-papers/objective-civil-engineering-i-2013",
-        "status": "ZIP_LOCATED_DOWNLOAD_BLOCKED",
+        "status": "UNVERIFIED_SECONDARY_LISTING_ESE_IDENTITY_NOT_ESTABLISHED",
         "title": "ESE 2013 Civil Engineering Objective Paper I",
         "download_url": "https://static.upscportal.com/files/upsc2013/UPSC-IES-Exam-Papers-2013-Civil-Engineering-Paper-I-www.upscportal.com.zip",
-        "source_type": "secondary_listing_and_zip"
+        "source_type": "secondary_listing_and_zip",
+        "alternate_sources": [
+          {
+            "title": "ExamElite Civil Engineering 2013 catalogue entry",
+            "url": "https://examelite.com/previous-year-papers/ese-gate-ce-previous-year-papers",
+            "source_type": "secondary_catalog",
+            "status": "generic_CE_entry_only_not_identified_as_ESE"
+          }
+        ]
       },
       "paper2": {
         "url": "https://iasexamportal.com/ies/previous-papers/objective-civil-engineering-ii-2013",
         "listing": "https://iasexamportal.com/ies/previous-papers/objective-civil-engineering-ii-2013",
-        "status": "ZIP_LOCATED_DOWNLOAD_BLOCKED",
+        "status": "UNVERIFIED_SECONDARY_LISTING_ESE_IDENTITY_NOT_ESTABLISHED",
         "title": "ESE 2013 Civil Engineering Objective Paper II",
         "download_url": "https://static.upscportal.com/files/upsc2013/UPSC-IES-Exam-Papers-2013-Civil-Engineering-Paper-II-www.upscportal.com.zip",
-        "source_type": "secondary_listing_and_zip"
+        "source_type": "secondary_listing_and_zip",
+        "alternate_sources": [
+          {
+            "title": "ExamElite Civil Engineering 2013 catalogue entry",
+            "url": "https://examelite.com/previous-year-papers/ese-gate-ce-previous-year-papers",
+            "source_type": "secondary_catalog",
+            "status": "generic_CE_entry_only_not_identified_as_ESE"
+          }
+        ]
       }
     },
     "2014": {
@@ -68,7 +132,21 @@
         "status": "PDF_OPENED_24_PAGES_NOT_AUDITED",
         "title": "ESE 2014 Civil Engineering Objective Paper I",
         "download_url": "https://static.upscportal.com/files/upsc2014/Download-IES-Objective-Exam-Papers-Civil-Engineering-Paper-I_www.iasexamportal.com.pdf",
-        "source_type": "secondary_pdf"
+        "source_type": "secondary_pdf",
+        "alternate_sources": [
+          {
+            "title": "IAS Exam Portal ESE 2014 objective paper index",
+            "url": "https://iasexamportal.com/ies/previous-papers/2015-civil-engineering",
+            "source_type": "secondary_index",
+            "status": "2014_specific_download_link_in_catalog_not_download_verified"
+          },
+          {
+            "title": "CareerGuide 2014 ESE Civil paper index",
+            "url": "https://www.careerguide.co.in/2015/02/upsc-ies-ese-ce-2014-papers-download.html",
+            "source_type": "secondary_index",
+            "status": "objective_papers_and_answer_keys_claimed_not_independently_checked"
+          }
+        ]
       },
       "paper2": {
         "url": "https://iasexamportal.com/ies/previous-papers/objective-civil-engineering-paper-ii-2014",
@@ -76,7 +154,21 @@
         "status": "PDF_OPENED_20_PAGES_NOT_AUDITED",
         "title": "ESE 2014 Civil Engineering Objective Paper II",
         "download_url": "https://static.upscportal.com/files/upsc2014/Download-IES-Objective-Exam-Papers-Civil-Engineering-Paper-II_www.iasexamportal.com.pdf",
-        "source_type": "secondary_pdf"
+        "source_type": "secondary_pdf",
+        "alternate_sources": [
+          {
+            "title": "IAS Exam Portal ESE 2014 objective paper index",
+            "url": "https://iasexamportal.com/ies/previous-papers/2015-civil-engineering",
+            "source_type": "secondary_index",
+            "status": "2014_specific_download_link_in_catalog_not_download_verified"
+          },
+          {
+            "title": "CareerGuide 2014 ESE Civil paper index",
+            "url": "https://www.careerguide.co.in/2015/02/upsc-ies-ese-ce-2014-papers-download.html",
+            "source_type": "secondary_index",
+            "status": "objective_papers_and_answer_keys_claimed_not_independently_checked"
+          }
+        ]
       }
     },
     "2015": {
@@ -86,7 +178,15 @@
         "status": "LINK_FOUND_CACHE_MISS",
         "title": "ESE 2015 Civil Engineering Objective Paper I",
         "download_url": "https://iasexamportal.com/sites/default/files/Download-IES-Exam-Paper-2015-Civil-Engineering-Paper-I_www.iasexamportal.com_.pdf",
-        "source_type": "secondary_pdf"
+        "source_type": "secondary_pdf",
+        "alternate_sources": [
+          {
+            "title": "ExamElite ESE Civil Engineering 2015 catalogue entry",
+            "url": "https://examelite.com/previous-year-papers/ese-gate-ce-previous-year-papers",
+            "source_type": "secondary_catalog",
+            "status": "120_question_entry_listed_not_question_audited"
+          }
+        ]
       },
       "paper2": {
         "url": "https://iasexamportal.com/ies/previous-papers/2015-civil-engineering",
@@ -94,27 +194,75 @@
         "status": "LINK_FOUND_CACHE_MISS",
         "title": "ESE 2015 Civil Engineering Objective Paper II",
         "download_url": "https://iasexamportal.com/sites/default/files/Download-IES-Exam-Paper-2015-Civil-Engineering-Paper-II_www.iasexamportal.com_.pdf",
-        "source_type": "secondary_pdf"
+        "source_type": "secondary_pdf",
+        "alternate_sources": [
+          {
+            "title": "ExamElite ESE Civil Engineering 2015 catalogue entry",
+            "url": "https://examelite.com/previous-year-papers/ese-gate-ce-previous-year-papers",
+            "source_type": "secondary_catalog",
+            "status": "120_question_entry_listed_not_question_audited"
+          }
+        ]
       }
     },
     "2016": {
       "paper1": {
         "url": "https://www.upsc.gov.in/sites/default/files/1%20CIVIL%20ENGG%20PAPER-1A.pdf",
-        "status": "OFFICIAL_COVER_VERIFIED_QUESTION_AUDIT_PARTIAL",
+        "status": "OFFICIAL_SOURCE_CONFIRMED_SEARCHABLE_MIRROR_FOUND_AUDIT_PENDING",
         "cover": "VERIFIED",
         "sample_audit": "PARTIAL",
         "title": "ESE 2016 Civil Engineering Objective Paper I",
         "secondary_url": "https://www.examelite.com/exam-detail/ese-ies-civil-engineering-ce-p1-2016",
-        "source_type": "official_upsc_primary"
+        "source_type": "official_upsc_primary",
+        "alternate_sources": [
+          {
+            "title": "UPSC official original objective paper",
+            "url": "https://www.upsc.gov.in/sites/default/files/1%20CIVIL%20ENGG%20PAPER-1A.pdf",
+            "source_type": "official_primary",
+            "status": "official_archive_listing_confirmed"
+          },
+          {
+            "title": "PYQOnline searchable scan",
+            "url": "https://www.pyqonline.com/exam/upsc/papers/ese/ese-objective-civil-engineering-paper-1-2016.pdf",
+            "source_type": "secondary_scan",
+            "status": "searchable_pdf_opened_120_questions"
+          },
+          {
+            "title": "ACE Engineering Academy solved-paper scan",
+            "url": "https://www.aceenggacademy.com/wp-content/uploads/2016/05/Civil_Paper_1_Objective.pdf",
+            "source_type": "secondary_solved_copy",
+            "status": "cover_and_subject_distribution_confirmed"
+          }
+        ]
       },
       "paper2": {
         "url": "https://www.upsc.gov.in/sites/default/files/2%20CIVIL%20ENGG%20PAPER-2B.pdf",
-        "status": "OFFICIAL_COVER_VERIFIED_QUESTION_AUDIT_NOT_STARTED",
+        "status": "OFFICIAL_SOURCE_CONFIRMED_SECONDARY_SOLVED_COPY_FOUND_AUDIT_PENDING",
         "cover": "VERIFIED",
         "sample_audit": "PENDING",
         "title": "ESE 2016 Civil Engineering Objective Paper II",
         "secondary_url": "https://www.examelite.com/exam-detail/ese-ies-civil-engineering-ce-p2-2016",
-        "source_type": "official_upsc_primary"
+        "source_type": "official_upsc_primary",
+        "alternate_sources": [
+          {
+            "title": "UPSC official original objective paper",
+            "url": "https://www.upsc.gov.in/sites/default/files/2%20CIVIL%20ENGG%20PAPER-2B.pdf",
+            "source_type": "official_primary",
+            "status": "official_archive_listing_confirmed"
+          },
+          {
+            "title": "ACE Engineering Academy solved-paper scan",
+            "url": "https://www.aceenggacademy.com/wp-content/uploads/2016/06/Civil_Paper_2_Objective-1.pdf",
+            "source_type": "secondary_solved_copy",
+            "status": "cover_and_subject_distribution_confirmed"
+          },
+          {
+            "title": "PYQSathi paper record linking UPSC original",
+            "url": "https://pyqsathi.com/papers/upsc-engineering-services-prelims-2016-civil-engineering-paper-ii-objective/",
+            "source_type": "secondary_catalog",
+            "status": "official_source_link_confirmed"
+          }
+        ]
       }
     }
   },
