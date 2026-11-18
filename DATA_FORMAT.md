@@ -6,7 +6,7 @@ The portal reads `data/questions.json`. The file is deliberately empty until ori
 
 - `id`: stable unique identifier, e.g. `ESE-2016-CE-P1-Q001`.
 - `year`: integer from 2010 through 2016.
-- `paper_number`: `1` or `2`; only the two Civil technical objective papers are in scope.
+- `paper_number`: `2` only; Civil Engineering technical objective Paper II is the sole in-scope paper.
 - `question_number`: printed question number in the source.
 - `sequence_index`: sequence position in the original paper.
 - `question_text`: faithful transcription; retain units, symbols and line breaks.
@@ -24,7 +24,7 @@ The portal reads `data/questions.json`. The file is deliberately empty until ori
 ## Admission rules
 
 1. A record marked `VERIFIED` must have its question number, wording, every option, and any diagram checked against the original paper scan.
-2. The source must be an identified Civil technical objective paper, not a conventional paper, General Ability Test, GATE paper or another discipline.
+2. The source must be an identified Civil technical objective paper, not Paper I, General Ability Test / General Studies, a conventional paper, GATE paper or another discipline.
 3. A secondary transcription may be used as a comparison aid, never as the authority when an official original is available.
 4. An answer key is usable for scoring only when `answer_key.status` is `VERIFIED`. Question verification does not automatically verify its answer.
 5. Never guess unclear scan text. Hold the record as `PROVISIONAL` or `DISPUTED` until resolved.
