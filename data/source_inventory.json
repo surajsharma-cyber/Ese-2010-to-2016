@@ -1,0 +1,80 @@
+{
+  "project": "ESE Civil Engineering Technical Objective PYQ",
+  "years": {
+    "2010": {
+      "paper1": {
+        "url": "https://iasexamportal.com/Download/Indian-Engineering-Services-Exam-2010-Objective-Question-Paper-Civil-Engg",
+        "status": "SECONDARY_INDEX_ONLY"
+      },
+      "paper2": {
+        "url": "https://iasexamportal.com/Download/Indian-Engineering-Services-Exam-2010-Objective-Question-Paper-Civil-Engg",
+        "status": "SECONDARY_INDEX_ONLY"
+      }
+    },
+    "2011": {
+      "paper1": {
+        "url": "https://iasexamportal.com/engineering-services/download/exam-paper-2011-objective-civil-engineering-i",
+        "status": "SECONDARY_LISTING_ONLY"
+      },
+      "paper2": {
+        "url": "https://iasexamportal.com/engineering-services/download/exam-paper-2011-objective-civil-engineering-ii",
+        "status": "SECONDARY_LISTING_ONLY"
+      }
+    },
+    "2012": {
+      "paper1": {
+        "url": "https://iasexamportal.com/ies/previous-papers/objective-civil-engineering-i-2012",
+        "status": "SECONDARY_LISTING_ONLY"
+      },
+      "paper2": {
+        "url": "https://iasexamportal.com/ies/previous-papers/objective-civil-engineering-ii-2012",
+        "status": "SECONDARY_LISTING_ONLY"
+      }
+    },
+    "2013": {
+      "paper1": {
+        "url": "https://iasexamportal.com/ies/previous-papers/objective-civil-engineering-i-2013",
+        "status": "SECONDARY_LISTING_ONLY"
+      },
+      "paper2": {
+        "url": "https://iasexamportal.com/ies/previous-papers/conventional-civil-engineering-ii-2013",
+        "status": "AMBIGUOUS_TITLE_BODY_CONFLICT"
+      }
+    },
+    "2014": {
+      "paper1": {
+        "url": "https://iasexamportal.com/ies/previous-papers/objective-civil-engineering-paper-i-2014",
+        "status": "SECONDARY_LISTING_ONLY"
+      },
+      "paper2": {
+        "url": "https://iasexamportal.com/ies/previous-papers/objective-civil-engineering-paper-ii-2014",
+        "status": "SECONDARY_LISTING_ONLY"
+      }
+    },
+    "2015": {
+      "paper1": {
+        "url": "https://iasexamportal.com/ies/previous-papers/2015-civil-engineering",
+        "status": "SECONDARY_INDEX_ONLY"
+      },
+      "paper2": {
+        "url": "https://iasexamportal.com/ies/previous-papers/2015-civil-engineering",
+        "status": "SECONDARY_INDEX_ONLY"
+      }
+    },
+    "2016": {
+      "paper1": {
+        "url": "https://www.upsc.gov.in/sites/default/files/1%20CIVIL%20ENGG%20PAPER-1A.pdf",
+        "status": "OFFICIAL_PRIMARY_LOCATED",
+        "cover": "VERIFIED",
+        "sample_audit": "PARTIAL"
+      },
+      "paper2": {
+        "url": "https://www.upsc.gov.in/sites/default/files/2%20CIVIL%20ENGG%20PAPER-2B.pdf",
+        "status": "OFFICIAL_PRIMARY_LOCATED",
+        "cover": "VERIFIED",
+        "sample_audit": "PENDING"
+      }
+    }
+  },
+  "scope_note": "For the 2010-era scheme, include only Civil Engineering Objective Papers I and II. Exclude General Ability Test and Conventional Papers."
+}
