@@ -284,6 +284,19 @@
         "source_type": "official_upsc_primary",
         "alternate_sources": [
           {
+            "title": "UPSC official archive — Engineering Services Examination 2016, Objective Papers, Civil Engineering Paper II",
+            "url": "https://www.upsc.gov.in/sites/default/files/2%20CIVIL%20ENGG%20PAPER-2B.pdf",
+            "source_type": "official_primary_pdf",
+            "status": "official_archive_entry_confirmed_24_page_pdf_but_pdf_bytes_unavailable_to_current_runtime",
+            "pages": 24,
+            "retrieval_attempts": [
+              "UPSC archive link opened",
+              "PDF page screenshot requests 0-23 attempted; all cache miss",
+              "direct container download attempted; failed"
+            ],
+            "exclusion_check": "Archive entry is explicitly under Engineering Services Examination 2016 > Objective Papers > Civil Engineering Paper II; not Paper I, GS or conventional."
+          },
+          {
             "title": "UPSC official original objective paper",
             "url": "https://www.upsc.gov.in/sites/default/files/2%20CIVIL%20ENGG%20PAPER-2B.pdf",
             "source_type": "official_primary",
