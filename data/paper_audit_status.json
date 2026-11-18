@@ -15,9 +15,13 @@
       "verified_questions_admitted": 0,
       "answer_key_status": "NOT_AUTHENTICATED",
       "blockers": [
-        "Question paper must be retrieved and inspected page by page",
-        "Official paper identity and exact question transcription not yet verified",
-        "Answer key not authenticated"
+        "Actual provider PDF must be retrieved from listed third-party source before transcription",
+        "No question records admitted yet"
+      ],
+      "third_party_source_policy": "PROVIDER_SOURCE_ACCEPTED_WHEN_IDENTIFIED_FILE_RETRIEVED",
+      "third_party_catalogue_sources": [
+        "Mathematical Society",
+        "My UPSC Syllabus"
       ]
     },
     "2010_P2": {
@@ -30,9 +34,13 @@
       "verified_questions_admitted": 0,
       "answer_key_status": "NOT_AUTHENTICATED",
       "blockers": [
-        "Question paper must be retrieved and inspected page by page",
-        "Official paper identity and exact question transcription not yet verified",
-        "Answer key not authenticated"
+        "Actual provider PDF must be retrieved from listed third-party source before transcription",
+        "No question records admitted yet"
+      ],
+      "third_party_source_policy": "PROVIDER_SOURCE_ACCEPTED_WHEN_IDENTIFIED_FILE_RETRIEVED",
+      "third_party_catalogue_sources": [
+        "Mathematical Society",
+        "My UPSC Syllabus"
       ]
     },
     "2011_P1": {
@@ -45,9 +53,13 @@
       "verified_questions_admitted": 0,
       "answer_key_status": "NOT_AUTHENTICATED",
       "blockers": [
-        "Question paper must be retrieved and inspected page by page",
-        "Official paper identity and exact question transcription not yet verified",
-        "Answer key not authenticated"
+        "Actual provider PDF must be retrieved from listed third-party source before transcription",
+        "No question records admitted yet"
+      ],
+      "third_party_source_policy": "PROVIDER_SOURCE_ACCEPTED_WHEN_IDENTIFIED_FILE_RETRIEVED",
+      "third_party_catalogue_sources": [
+        "Mathematical Society",
+        "My UPSC Syllabus"
       ]
     },
     "2011_P2": {
@@ -60,9 +72,13 @@
       "verified_questions_admitted": 0,
       "answer_key_status": "NOT_AUTHENTICATED",
       "blockers": [
-        "Question paper must be retrieved and inspected page by page",
-        "Official paper identity and exact question transcription not yet verified",
-        "Answer key not authenticated"
+        "Actual provider PDF must be retrieved from listed third-party source before transcription",
+        "No question records admitted yet"
+      ],
+      "third_party_source_policy": "PROVIDER_SOURCE_ACCEPTED_WHEN_IDENTIFIED_FILE_RETRIEVED",
+      "third_party_catalogue_sources": [
+        "Mathematical Society",
+        "My UPSC Syllabus"
       ]
     },
     "2012_P1": {
@@ -75,9 +91,13 @@
       "verified_questions_admitted": 0,
       "answer_key_status": "NOT_AUTHENTICATED",
       "blockers": [
-        "Question paper must be retrieved and inspected page by page",
-        "Official paper identity and exact question transcription not yet verified",
-        "Answer key not authenticated"
+        "Actual provider PDF must be retrieved from listed third-party source before transcription",
+        "No question records admitted yet"
+      ],
+      "third_party_source_policy": "PROVIDER_SOURCE_ACCEPTED_WHEN_IDENTIFIED_FILE_RETRIEVED",
+      "third_party_catalogue_sources": [
+        "Mathematical Society",
+        "My UPSC Syllabus"
       ]
     },
     "2012_P2": {
@@ -90,9 +110,13 @@
       "verified_questions_admitted": 0,
       "answer_key_status": "NOT_AUTHENTICATED",
       "blockers": [
-        "Question paper must be retrieved and inspected page by page",
-        "Official paper identity and exact question transcription not yet verified",
-        "Answer key not authenticated"
+        "Actual provider PDF must be retrieved from listed third-party source before transcription",
+        "No question records admitted yet"
+      ],
+      "third_party_source_policy": "PROVIDER_SOURCE_ACCEPTED_WHEN_IDENTIFIED_FILE_RETRIEVED",
+      "third_party_catalogue_sources": [
+        "Mathematical Society",
+        "My UPSC Syllabus"
       ]
     },
     "2013_P1": {
@@ -105,9 +129,13 @@
       "verified_questions_admitted": 0,
       "answer_key_status": "NOT_AUTHENTICATED",
       "blockers": [
-        "Question paper must be retrieved and inspected page by page",
-        "Official paper identity and exact question transcription not yet verified",
-        "Answer key not authenticated"
+        "Actual provider PDF must be retrieved from listed third-party source before transcription",
+        "No question records admitted yet"
+      ],
+      "third_party_source_policy": "PROVIDER_SOURCE_ACCEPTED_WHEN_IDENTIFIED_FILE_RETRIEVED",
+      "third_party_catalogue_sources": [
+        "Mathematical Society",
+        "My UPSC Syllabus"
       ]
     },
     "2013_P2": {
@@ -120,9 +148,13 @@
       "verified_questions_admitted": 0,
       "answer_key_status": "NOT_AUTHENTICATED",
       "blockers": [
-        "Question paper must be retrieved and inspected page by page",
-        "Official paper identity and exact question transcription not yet verified",
-        "Answer key not authenticated"
+        "Actual provider PDF must be retrieved from listed third-party source before transcription",
+        "No question records admitted yet"
+      ],
+      "third_party_source_policy": "PROVIDER_SOURCE_ACCEPTED_WHEN_IDENTIFIED_FILE_RETRIEVED",
+      "third_party_catalogue_sources": [
+        "Mathematical Society",
+        "My UPSC Syllabus"
       ]
     },
     "2014_P1": {
@@ -135,9 +167,13 @@
       "verified_questions_admitted": 0,
       "answer_key_status": "NOT_AUTHENTICATED",
       "blockers": [
-        "Question paper must be retrieved and inspected page by page",
-        "Official paper identity and exact question transcription not yet verified",
-        "Answer key not authenticated"
+        "Actual provider PDF must be retrieved from listed third-party source before transcription",
+        "No question records admitted yet"
+      ],
+      "third_party_source_policy": "PROVIDER_SOURCE_ACCEPTED_WHEN_IDENTIFIED_FILE_RETRIEVED",
+      "third_party_catalogue_sources": [
+        "Mathematical Society",
+        "My UPSC Syllabus"
       ]
     },
     "2014_P2": {
@@ -150,9 +186,13 @@
       "verified_questions_admitted": 0,
       "answer_key_status": "NOT_AUTHENTICATED",
       "blockers": [
-        "Question paper must be retrieved and inspected page by page",
-        "Official paper identity and exact question transcription not yet verified",
-        "Answer key not authenticated"
+        "Actual provider PDF must be retrieved from listed third-party source before transcription",
+        "No question records admitted yet"
+      ],
+      "third_party_source_policy": "PROVIDER_SOURCE_ACCEPTED_WHEN_IDENTIFIED_FILE_RETRIEVED",
+      "third_party_catalogue_sources": [
+        "Mathematical Society",
+        "My UPSC Syllabus"
       ]
     },
     "2015_P1": {
@@ -165,9 +205,13 @@
       "verified_questions_admitted": 0,
       "answer_key_status": "NOT_AUTHENTICATED",
       "blockers": [
-        "Question paper must be retrieved and inspected page by page",
-        "Official paper identity and exact question transcription not yet verified",
-        "Answer key not authenticated"
+        "Actual provider PDF must be retrieved from listed third-party source before transcription",
+        "No question records admitted yet"
+      ],
+      "third_party_source_policy": "PROVIDER_SOURCE_ACCEPTED_WHEN_IDENTIFIED_FILE_RETRIEVED",
+      "third_party_catalogue_sources": [
+        "Mathematical Society",
+        "My UPSC Syllabus"
       ]
     },
     "2015_P2": {
@@ -180,9 +224,13 @@
       "verified_questions_admitted": 0,
       "answer_key_status": "NOT_AUTHENTICATED",
       "blockers": [
-        "Question paper must be retrieved and inspected page by page",
-        "Official paper identity and exact question transcription not yet verified",
-        "Answer key not authenticated"
+        "Actual provider PDF must be retrieved from listed third-party source before transcription",
+        "No question records admitted yet"
+      ],
+      "third_party_source_policy": "PROVIDER_SOURCE_ACCEPTED_WHEN_IDENTIFIED_FILE_RETRIEVED",
+      "third_party_catalogue_sources": [
+        "Mathematical Society",
+        "My UPSC Syllabus"
       ]
     },
     "2016_P1": {
@@ -231,7 +279,12 @@
         "searchable_pdf_lines": 1080,
         "ace_solved_pdf_pages": 27,
         "declared_questions": 120
-      }
+      },
+      "third_party_source_policy": "PROVIDER_SOURCE_ACCEPTED_WHEN_IDENTIFIED_FILE_RETRIEVED",
+      "third_party_catalogue_sources": [
+        "Mathematical Society",
+        "My UPSC Syllabus"
+      ]
     },
     "2016_P2": {
       "year": 2016,
@@ -271,7 +324,12 @@
       "secondary_copy_opened": true,
       "secondary_evidence": {
         "ace_solved_pdf_pages": 40
-      }
+      },
+      "third_party_source_policy": "PROVIDER_SOURCE_ACCEPTED_WHEN_IDENTIFIED_FILE_RETRIEVED",
+      "third_party_catalogue_sources": [
+        "Mathematical Society",
+        "My UPSC Syllabus"
+      ]
     }
   },
   "totals": {
@@ -283,5 +341,6 @@
     "papers_with_full_question_audit": 0,
     "verified_question_records_admitted": 0,
     "official_answer_keys_authenticated": 0
-  }
+  },
+  "policy_update": "Third-party source-of-record permitted; official UPSC comparison is optional and separately labelled. Provider identity and provenance must be retained."
 }
