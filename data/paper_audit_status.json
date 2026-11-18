@@ -241,8 +241,8 @@
       "verified_questions_admitted": 0,
       "answer_key_status": "SECONDARY_KEY_ONLY_NOT_OFFICIAL",
       "blockers": [
-        "Provider paper links have been identified, but file bytes are not accessible from this runtime (Drive/IESect cache miss or network egress unavailable).",
-        "No question transcription can be validated without inspecting the paper pages."
+        "Official archive entry confirms the exact Civil Engineering Objective Paper II and the linked PDF is 24 pages, but the PDF bytes cannot be fetched by this runtime (cache miss on page render and direct download).",
+        "Question records remain empty until source pages can be inspected; no question text has been invented."
       ],
       "alternate_sources": [
         {
@@ -294,7 +294,16 @@
           "source_type": "third_party_direct_pdf",
           "status": "provider_page_identifies_Civil_Objective_Paper_II;_PDF_retrieval_cache_miss"
         }
-      ]
+      ],
+      "official_source": {
+        "url": "https://www.upsc.gov.in/sites/default/files/2%20CIVIL%20ENGG%20PAPER-2B.pdf",
+        "archive_ref": "turn130337view4",
+        "pdf_ref": "turn172385view0",
+        "pages": 24,
+        "identity_confirmed": true,
+        "content_retrieved": false,
+        "page_by_page_inspection": "BLOCKED_CACHE_MISS"
+      }
     }
   },
   "totals": {
