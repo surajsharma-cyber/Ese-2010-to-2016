@@ -71,7 +71,7 @@ The application loads `data/questions.json`. Its format is specified in [DATA_FO
 
 ## Current content status
 
-The application shell and core browser interactions are implemented. **The live question dataset is still empty.** The source audit has sampled 18 questions from 2016 Civil Paper I: 13 complete text-and-option matches, 3 confirmed third-party option mismatches, and 2 held for numeral/diagram checks. The remaining 102 Paper I questions and all 120 Paper II questions have not been audited. No answer key is currently authenticated as an official verified key. The portal therefore opens in a clear empty state rather than presenting fabricated content.
+The application shell and core browser interactions are implemented. **The live question dataset is still empty.** The source audit has sampled 18 questions from 2016 Civil Paper I: 13 third-party text-and-option matches, 3 confirmed third-party option mismatches, and 2 held for numeral/diagram checks. 102 Paper I questions remain unsampled. The repository tracks all 14 in-scope papers in `data/paper_audit_status.json`. The remaining 102 Paper I questions and all 120 Paper II questions have not been audited. No answer key is currently authenticated as an official verified key. The portal therefore opens in a clear empty state rather than presenting fabricated content.
 
 See [SOURCES.md](SOURCES.md), [data/source_inventory.json](data/source_inventory.json) and [data/verification.json](data/verification.json) for the detailed record.
 
