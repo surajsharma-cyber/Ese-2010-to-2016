@@ -195,5 +195,33 @@
   "admission_summary": {
     "admitted_question_records": 0,
     "reason": "Audit ledger only. Q20 and Q23 third-party option mismatches are recorded; Q21 options/diagram remain pending. No question text is duplicated into the live question bank."
+  },
+  "answer_key_candidates": {
+    "2016_P1": {
+      "url": "https://iasexamportal.com/sites/default/files/Answer-Key-UPSC-Engineering-Services-Examination-2016-Civil-Engineering-Paper-I.pdf",
+      "paper": "Civil Engineering Paper I",
+      "series": "A",
+      "max_marks": 200,
+      "items_dropped": "Nil",
+      "items_for_scoring": 120,
+      "inspection_status": "SCAN_VISUALLY_INSPECTED",
+      "provenance_status": "SECONDARY_HOSTED_CLAIMING_UPSC_COURTESY",
+      "authentication_status": "NOT_INDEPENDENTLY_AUTHENTICATED",
+      "answer_correctness_status": "NOT_VERIFIED",
+      "publication_status": "PROVISIONAL_CANDIDATE_ONLY"
+    },
+    "2016_P2": {
+      "url": "https://iasexamportal.com/sites/default/files/Answer-Key-UPSC-Engineering-Services-Examination-2016-Civil-Engineering-Paper-II.pdf",
+      "paper": "Civil Engineering Paper II",
+      "series": "A",
+      "max_marks": 200,
+      "items_dropped": "Nil",
+      "items_for_scoring": 120,
+      "inspection_status": "SCAN_VISUALLY_INSPECTED",
+      "provenance_status": "SECONDARY_HOSTED_CLAIMING_UPSC_COURTESY",
+      "authentication_status": "NOT_INDEPENDENTLY_AUTHENTICATED",
+      "answer_correctness_status": "NOT_VERIFIED",
+      "publication_status": "PROVISIONAL_CANDIDATE_ONLY"
+    }
   }
 }
