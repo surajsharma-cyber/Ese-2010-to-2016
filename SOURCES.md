@@ -354,3 +354,28 @@ A consolidated machine-readable status ledger is maintained at [`data/paper_audi
 Source pages: [UPSC archive](https://www.upsc.gov.in/examinations/previous-question-papers/archives), [2012 Paper I listing](https://iasexamportal.com/ies/previous-papers/objective-civil-engineering-i-2012), [2013 Paper I listing](https://iasexamportal.com/ies/previous-papers/objective-civil-engineering-i-2013), [2015 paper index](https://iasexamportal.com/ies/previous-papers/2015-civil-engineering).
 
 **Do not mark the repository's content complete based on these listing checks.** The source register is more complete, but question-level verification remains the gating work.
+
+
+## Additional source recovery — 18 November 2026
+
+### 2016 objective papers
+
+The UPSC archive lists both Civil Engineering Objective Papers I and II under "Engineering Services Examination, 2016", distinct from the Conventional Papers. The official links are recorded in the source inventory.
+
+- Paper I official scan: https://www.upsc.gov.in/sites/default/files/1%20CIVIL%20ENGG%20PAPER-1A.pdf
+- Paper II official scan: https://www.upsc.gov.in/sites/default/files/2%20CIVIL%20ENGG%20PAPER-2B.pdf
+- Paper I searchable secondary scan: https://www.pyqonline.com/exam/upsc/papers/ese/ese-objective-civil-engineering-paper-1-2016.pdf
+- Paper I ACE solved-paper copy: https://www.aceenggacademy.com/wp-content/uploads/2016/05/Civil_Paper_1_Objective.pdf
+- Paper II ACE solved-paper copy: https://www.aceenggacademy.com/wp-content/uploads/2016/06/Civil_Paper_2_Objective-1.pdf
+- Paper II secondary record linking the official UPSC file: https://pyqsathi.com/papers/upsc-engineering-services-prelims-2016-civil-engineering-paper-ii-objective/
+
+The searchable Paper I scan identifies a 120-item, 200-mark, two-hour objective paper. The ACE copies identify themselves as ESE 2016 Civil Engineering Objective Papers I and II and give subject-wise distributions. These are discovery/transcription aids only; they are not substitutes for comparison against the UPSC originals.
+
+### 2015–2010 catalogue screening
+
+ExamElite's public catalogue identifies ESE Civil Engineering Paper I and II entries for 2015 and 2016 with 120 questions each. It also lists generic Civil Engineering entries for 2010–2013, each with 65 questions, but does not identify those entries as ESE in the catalogue. Those generic records are therefore explicitly excluded from the ESE paper inventory until their exam identity is established. The catalogue and analysis index are:
+
+- https://examelite.com/previous-year-papers/ese-gate-ce-previous-year-papers
+- https://examelite.com/previous-year-papers/ese-gate-ce-previous-year-papers/analysis
+
+**Audit correction:** the earlier 18-question 2016 Paper I comparison was not a completed official-source audit. It is no longer counted as verified question-level work. Current verified question admissions remain zero. The paper-level inventory is a source-discovery register, not proof of question transcription accuracy.
